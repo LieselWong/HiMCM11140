@@ -1,5 +1,5 @@
 def percentdifference(actual, expected):
-    if expected = 0:
+    if expected == 0:
         return actual #ASK ANGEL HALP
     return (actual - expected)/expected
 
@@ -25,6 +25,7 @@ def hollandcode(jobtraits, applicanttraits):
     
 jobtraits = [False, True, True, False, False, False]
 applicanttraits = [True, True, True, False, False, False]
+print(hollandcode(jobtraits, applicanttraits))
 weights = [1, 1, 1, 1]
 jobvalues = [percentdifference(5000, 6000), difficulty(3, 5),
              percentdifference(time(), 5),

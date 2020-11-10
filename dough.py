@@ -1,6 +1,6 @@
 def percentdifference(actual, expected):
     if expected == 0:
-        return actual #ASK ANGEL HALP
+        return actual #ASK ANGEL HALP: answer: say cannot enter
     return (actual - expected)/expected
 
 def difficulty(actual, expected):

@@ -1,3 +1,4 @@
+import random 
 def percentdifference(actual, expected):
     if expected == 0:
         return actual #ASK ANGEL HALP: answer: say cannot enter
@@ -10,7 +11,7 @@ def difficulty(actual, expected):
     else:
         return abs(x) * -1
 
-def time(selfcare = 1.5, sleep = 8, workinghours = 7, commutehr = 2):
+def time(workinghours, selfcare = 1.5, sleep = 8, commutehr = 2):
     x = 24 - selfcare - sleep - workinghours - commutehr
     if x < 0:
         x = 0
@@ -25,16 +26,51 @@ def hollandcode(jobtraits, applicanttraits):
     
 jobtraits = [False, True, True, False, False, False]
 applicanttraits = [True, True, True, False, False, False]
-print(hollandcode(jobtraits, applicanttraits))
-weights = [1, 1, 1, 1]
-jobvalues = [percentdifference(5000, 6000), difficulty(3, 5),
-             percentdifference(time(), 5),
-             hollandcode(jobtraits, applicanttraits)]
 
+print(hollandcode(jobtraits, applicanttraits))
+weights = [1, 1, 1, 1, 1]
+'''jobvalues = [percentdifference(5000, 6000), difficulty(3, 5),
+             percentdifference(time(), 5),
+             hollandcode(jobtraits, applicanttraits)]'''
+
+'''def wage():
+    x = random.randint(0, 100)
+    if x < 1:
+        return random.randint(6, 9)
+    if x < 8:
+        return random.randint(6, 9)
+    if x < 23:
+        return random.randint(6, 9)
+    if x < 42:
+        return random.randint(6, 9)
+    if x < 60:
+        return random.randint(6, 9)
+    if x < 72:
+        return random.randint(6, 9)
+    if x < 81:
+        return random.randint(6, 9)
+    if x < 1:
+        return random.randint(6, 9)
+    if x < 1:
+        return random.randint(6, 9)
+    if x < 1:
+        return random.randint(6, 9)
+    if x < 1:
+        return random.randint(6, 9)'''
+
+def jobvaluesss (cheese):
+    cheese[1] = percentdifference(cheese[1], random.randint(6, 28))
+    cheese[2] = hollandcode(jobtraits, jobtraits)
+    cheese[3] = percentdifference(time(cheese[3]), random.randint(0, 11.5))
+    #FOR CHEESE[3] FIX RANDINT BECUZ COMMUTE TIME CHANGES
+    cheese[4] =  difficulty(random.randint(1, 5), random.randint(1, 5))
+    
 def Satisfaction (weights, jobvalues):
     isfaction = 0
     for i in range (len(weights)):
         isfaction += weights[i] * jobvalues[i]
+        print(jobvalues[i])
     return isfaction
 
-print(Satisfaction(weights, jobvalues))
+jobvaluesss(jobs)
+print(Satisfaction(weights, jobs))

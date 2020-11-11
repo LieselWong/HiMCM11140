@@ -34,31 +34,6 @@ def hollandcode(jobtraits, applicanttraits):
              percentdifference(time(), 5),
              hollandcode(jobtraits, applicanttraits)]'''
 
-'''def wage():
-    x = random.randint(0, 100)
-    if x < 1:
-        return random.randint(6, 9)
-    if x < 8:
-        return random.randint(6, 9)
-    if x < 23:
-        return random.randint(6, 9)
-    if x < 42:
-        return random.randint(6, 9)
-    if x < 60:
-        return random.randint(6, 9)
-    if x < 72:
-        return random.randint(6, 9)
-    if x < 81:
-        return random.randint(6, 9)
-    if x < 1:
-        return random.randint(6, 9)
-    if x < 1:
-        return random.randint(6, 9)
-    if x < 1:
-        return random.randint(6, 9)
-    if x < 1:
-        return random.randint(6, 9)'''
-
 '''random.randint(6, 28) random.randint(0, 12)random.randint(1, 5)'''
 
 def jobvaluesss(cheese, expected):

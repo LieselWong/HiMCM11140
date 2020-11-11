@@ -2,7 +2,7 @@ import os
 import csv
 import dough
 import random 
-#os.chdir("/Users/christinelee/Documents/Github/HiMCM11140")
+os.chdir("/Users/christinelee/Documents/Github/HiMCM11140")
 with open("rollingpin.csv") as csvfile:
     reader = csv.reader(csvfile)
     next (reader)

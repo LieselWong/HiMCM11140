@@ -25,11 +25,11 @@ def hollandcode(jobtraits, applicanttraits):
             matches += 1
     return matches/jobtraits.count(True)
     
-jobtraits = [False, True, True, False, False, False]
-applicanttraits = [True, True, True, False, False, False]
+#jobtraits = [False, True, True, False, False, False]
+#applicanttraits = [True, True, True, False, False, False]
 
-print(hollandcode(jobtraits, applicanttraits))
-weights = [1, 1, 1, 1, 1]
+#print(hollandcode(jobtraits, applicanttraits))
+#weights = [1, 1, 1, 1, 1]
 '''jobvalues = [percentdifference(5000, 6000), difficulty(3, 5),
              percentdifference(time(), 5),
              hollandcode(jobtraits, applicanttraits)]'''
@@ -61,18 +61,19 @@ weights = [1, 1, 1, 1, 1]
 
 '''random.randint(6, 28) random.randint(0, 12)random.randint(1, 5)'''
 
-def jobvaluesss (cheese):
-    cheese[1] = percentdifference(cheese[1], 30)
-    cheese[2] = hollandcode(jobtraits, jobtraits)
-    cheese[3] = percentdifference(time(cheese[3]), 4)
+def jobvaluesss(cheese, expected):
+    newcheese = [cheese[0]]
+    newcheese.append(percentdifference(cheese[1], expected[1]))
+    newcheese.append(hollandcode(cheese[2], expected[2]))
+    newcheese.append(percentdifference(time(cheese[3]), expected[3]))
     #FOR CHEESE[3] FIX RANDINT BECUZ COMMUTE TIME CHANGES
-    cheese[4] =  difficulty(3, 5)
+    newcheese.append(difficulty(cheese[4], expected[4]))
+    return newcheese
     
-def Satisfaction (weights, jobvalues):
+def Satisfaction(weights, jobvalues):
     isfaction = 0
     for i in range (1, len(weights)):
         isfaction += weights[i] * jobvalues[i]
-        print(jobvalues[i])
     return isfaction
 
 '''jobvaluesss(jobs)

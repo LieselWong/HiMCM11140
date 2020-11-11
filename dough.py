@@ -1,4 +1,4 @@
-import random 
+import random
 def percentdifference(actual, expected):
     if expected == 0:
         return actual #ASK ANGEL HALP: answer: say cannot enter
@@ -11,7 +11,8 @@ def difficulty(actual, expected):
     else:
         return abs(x) * -1
 
-def time(workinghours, selfcare = 1.5, sleep = 8, commutehr = 2):
+def time(workinghours, selfcare = 1, sleep = 8, commutehr = 2):
+    #selfcare is inputted by person
     x = 24 - selfcare - sleep - workinghours - commutehr
     if x < 0:
         x = 0
@@ -58,19 +59,21 @@ weights = [1, 1, 1, 1, 1]
     if x < 1:
         return random.randint(6, 9)'''
 
+'''random.randint(6, 28) random.randint(0, 12)random.randint(1, 5)'''
+
 def jobvaluesss (cheese):
-    cheese[1] = percentdifference(cheese[1], random.randint(6, 28))
+    cheese[1] = percentdifference(cheese[1], 30)
     cheese[2] = hollandcode(jobtraits, jobtraits)
-    cheese[3] = percentdifference(time(cheese[3]), random.randint(0, 11.5))
+    cheese[3] = percentdifference(time(cheese[3]), 4)
     #FOR CHEESE[3] FIX RANDINT BECUZ COMMUTE TIME CHANGES
-    cheese[4] =  difficulty(random.randint(1, 5), random.randint(1, 5))
+    cheese[4] =  difficulty(3, 5)
     
 def Satisfaction (weights, jobvalues):
     isfaction = 0
-    for i in range (len(weights)):
+    for i in range (1, len(weights)):
         isfaction += weights[i] * jobvalues[i]
         print(jobvalues[i])
     return isfaction
 
-jobvaluesss(jobs)
-print(Satisfaction(weights, jobs))
+'''jobvaluesss(jobs)
+print(Satisfaction(weights, jobs))'''

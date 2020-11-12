@@ -9,6 +9,7 @@ def AHP():
     weightedsum = [0, 0, 0, 0, 0, 0]
     lammax = 0
     consistency = 0
+    CCorrect = False 
     for i in range(6):
         for z in range(6):
             if i == z:
@@ -59,10 +60,8 @@ def AHP():
     #1.24 is dependent on random index aka 6 variables
 
     if consistency < 0.1:
-        print("bueno")
-    else:
-        print("no")
-
+        CCorrect = True
+    #print (CCorrect)
     return weights 
 
 print(AHP())

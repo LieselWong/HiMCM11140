@@ -13,7 +13,7 @@ with open("rollingpin.csv") as csvfile:
         temp = []
         for char in "RIASEC":
             temp.append(char in row[2])
-        jobs.append([row[0], float(row[1]), temp, float(row[5]), random.randint(1, 5)])
+        jobs.append([row[0], float(row[1]), temp, float(row[5]), int(row[6]), int(row[8]), row[4]])
     people = sauce.randPeople(10)
     jobScoresAll = {}
     for person in people:

@@ -42,6 +42,8 @@ def jobvaluesss(cheese, expected):
     newcheese.append(hollandcode(cheese[1], expected[1]))
     newcheese.append(percentdifference(time(cheese[2]), expected[2])) #need to add commute time
     newcheese.append(difficulty(cheese[3], expected[3]))
+    newcheese.append(difficulty(cheese[4], expected[4]))
+    newcheese.append(int(cheese[5] == expected[5]))
     return newcheese
     
 def satisfaction(weights, jobvalues):

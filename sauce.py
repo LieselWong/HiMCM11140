@@ -1,4 +1,5 @@
 import random
+import mozzarella
 
 def randPerson():
     wage = randWage()
@@ -6,7 +7,7 @@ def randPerson():
     codes = [i in codes for i in range(6)]
     hours = random.randint(1, 8)
     difficulty = random.randint(1, 5)
-    weights = [1, 1, 1, 1] #TODO: use AHP
+    weights = mozzarella.AHP()[:-2] #TODO: add remaining factors
     return [wage, codes, hours, difficulty], weights
 
 def randPeople(n):

@@ -4,7 +4,7 @@ import dough
 import random
 import sauce
 #os.chdir("/Users/christinelee/Documents/Github/HiMCM11140")
-with open("rollingpin.csv") as csvfile, open("job_units.txt") as distances:
+with open("rollingpin.csv") as csvfile, open("results.txt") as distances:
     reader = csv.reader(csvfile)
     next(reader)
     next(reader)
@@ -22,7 +22,7 @@ with open("rollingpin.csv") as csvfile, open("job_units.txt") as distances:
         applicantvalues, weights = person
         jobScores = []
         for job in jobs:
-            commute = float(distances.readline().split()[-1]) #TODO: may need to convert into time
+            commute = float(distances.readline().split()[-1])/3
             jobvalues = dough.jobvaluesss(job[1:]+[commute], applicantvalues)
             score = dough.satisfaction(weights, jobvalues)
             jobScores.append((score, job+[commute]))

@@ -6,10 +6,7 @@ def percentdifference(actual, expected):
 
 def difficulty(actual, expected):
     x = percentdifference(actual, expected)
-    if x == 0:
-        return 1
-    else:
-        return abs(x) * -1
+    return abs(x) * -1
 
 def time(workinghours, commutehr, selfcare = 1, sleep = 8):
     #selfcare is inputted by person

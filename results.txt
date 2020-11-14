@@ -1,0 +1,1031 @@
+
+Person: 0
+Job Name                                            Coordinate Points                          Units
+--------------------------------------------------------------------------------------------------------------
+Group Leader for Arts & Education                  ( 4.7732 , 2.5679 )                        4.0331
+Peer Bridger                                       ( 7.0236 , 2.1944 )                        5.9103
+Contributing News/Interview Writer                 ( 6.7089 , 2.2516 )                        5.6268
+Student Advisor TRIO Upward Bound                  ( 4.0484 , 2.8697 )                        3.3743
+Childcare Entry Level Assistant Teacher            ( 4.4599 , 5.0658 )                        2.2580
+Child Development Center Assitant                  ( 4.7741 , 3.1279 )                        3.6062
+Warehouse Associate                                ( 4.1369 , 3.6447 )                        2.7959
+Preschool Teacher Assistant                        ( 7.4313 , 6.3530 )                        5.1529
+Group Leader for NYC Mission Society               ( 7.4705 , 5.4523 )                        5.1676
+Booth Cashier                                      ( 3.3804 , 2.8289 )                        3.1225
+Math Tutor                                         ( 6.3504 , 5.9528 )                        4.0426
+Infant Teacher                                     ( 4.2368 , 4.1034 )                        2.5413
+TLC Social Media & Content Intern                  ( 2.8786 , 3.4552 )                        2.3763
+Arts Criticism Intern                              ( 3.0722 , 3.6330 )                        2.2616
+Operations                                         ( 3.1720 , 5.2348 )                        1.0091
+Minecraft Instructor                               ( 5.5478 , 2.9249 )                        4.3040
+Santa Photo Helper                                 ( 3.5641 , 2.8071 )                        3.2101
+Park Ranger                                        ( 4.3449 , 7.5081 )                        2.6790
+After-School Junior Group Leader                   ( 5.9537 , 3.6886 )                        4.1909
+Camp Counselor                                     ( 4.4470 , 4.3669 )                        2.5508
+Temporary Scan Verification Associate              ( 4.8382 , 7.6246 )                        3.1378
+Direct Support Pro Intern                          ( 7.7115 , 3.9604 )                        5.6923
+Valet Parking Attendant                            ( 6.0397 , 3.0994 )                        4.5814
+Teacher's Assistant                                ( 6.7367 , 7.6321 )                        4.8031
+Kumon Instructor Assistant                         ( 4.2984 , 4.9636 )                        2.1410
+Bakery Team Member                                 ( 4.2853 , 7.0738 )                        2.3687
+House Cleaner                                      ( 3.7541 , 6.2255 )                        1.5142
+Resturant Team Member                              ( 3.4687 , 2.5666 )                        3.3992
+Seasonal Bell Ringer                               ( 5.8758 , 4.4470 )                        3.7988
+Wait Staff                                         ( 3.5290 , 2.9573 )                        3.0583
+Theo Peer                                          ( 7.6230 , 7.7693 )                        5.6771
+Party Assistant                                    ( 4.3712 , 6.7579 )                        2.2867
+Birthday Party Host                                ( 4.5350 , 3.3662 )                        3.2688
+Taco Bell Team Member                              ( 2.0064 , 6.3736 )                        0.6828
+Retail Team Member                                 ( 7.0426 , 6.0815 )                        4.7411
+Dunkin Crew Member                                 ( 6.7591 , 4.2619 )                        4.6934
+Seasonal Picker                                    ( 3.5874 , 5.1511 )                        1.4144
+Dishwasher and Cleaner                             ( 2.4721 , 6.8218 )                        1.0708
+Stocker                                            ( 7.1030 , 2.2486 )                        5.9417
+Production Worker                                  ( 4.0124 , 4.9849 )                        1.8697
+Painting Customer Service Rep                      ( 4.0797 , 4.6105 )                        2.1101
+Corps Ministry Assistant                           ( 2.1351 , 5.8484 )                        0.1966
+Y&C Resturant Crew Member                          ( 5.7808 , 2.7097 )                        4.6210
+Sewing Direct Associate                            ( 7.2090 , 7.2418 )                        5.1151
+Britesmith Brewing Dishwasher                      ( 3.2169 , 4.8391 )                        1.2931
+Doggy Day Camp Attendant                           ( 2.4332 , 6.8589 )                        1.1025
+Antler's Restaurant Dishwasher                     ( 5.2090 , 7.0538 )                        3.1713
+Donut Packer                                       ( 6.9992 , 7.5152 )                        5.0037
+Prep Cook/Dishwasher                               ( 4.2828 , 6.1907 )                        2.0164
+Kinglsey Cleaners                                  ( 4.1526 , 6.2052 )                        1.8928
+PT Office Cleaning                                 ( 6.2374 , 6.1432 )                        3.9436
+Helping Hand Weekend Cleaner                       ( 2.3056 , 4.9385 )                        0.8246
+Bayard Baker Part-Time Cashier                     ( 6.0174 , 5.2154 )                        3.7455
+Plumber's Helper                                   ( 7.2308 , 5.8206 )                        4.9189
+Taco Bell Team Member                              ( 2.9927 , 5.2142 )                        0.8743
+Dishwasher at Hillsdale House                      ( 7.9362 , 3.5265 )                        6.0524
+Luca Trattoria & Pizzeria Counter Help             ( 6.9127 , 6.9595 )                        4.7535
+McDonald's Crew Member                             ( 6.0759 , 3.1763 )                        4.5669
+Dairy Queen Crew Members                           ( 7.6499 , 4.1008 )                        5.5905
+Subway Shift Leader                                ( 2.6955 , 4.6767 )                        1.1520
+Counter Person at Katrinka's INC                   ( 7.3874 , 7.5264 )                        5.3728
+NSinc Front Desk Sports Member                     ( 2.7410 , 5.8335 )                        0.4345
+Valet Parking Attendant                            ( 5.1262 , 6.2328 )                        2.8529
+Gym Front Deskt Member Rep                         ( 3.0801 , 7.9648 )                        2.3318
+Hair Stylist                                       ( 6.3029 , 7.2976 )                        4.2756
+Elementary After School Tutor                      ( 7.7878 , 5.3637 )                        5.4901
+Infant Teacher                                     ( 2.9080 , 3.5535 )                        2.2885
+African Heritage Food Bagger                       ( 5.1448 , 3.7585 )                        3.4701
+Mathnasium Instructor                              ( 7.7791 , 2.7108 )                        6.2612
+Seasonal Picker                                    ( 6.1759 , 2.9112 )                        4.8022
+Hip Hop Assistant Teacher                          ( 6.7222 , 6.0085 )                        4.4168
+Retail Sales Associate                             ( 6.6244 , 2.6718 )                        5.3057
+Cashier/Customer Service                           ( 7.7732 , 7.9953 )                        5.8995
+Nail Technician                                    ( 5.0146 , 6.1706 )                        2.7329
+Child Care Worker                                  ( 6.2621 , 5.7518 )                        3.9498
+Crew Member at Chipotle                           ( 4.8984 , 4.3845 )                        2.9306
+Waiter at PJ Lobster House                         ( 3.3810 , 3.7614 )                        2.2692
+Kumon Teacher's Assistant                          ( 5.5112 , 3.0535 )                        4.1922
+Barista at Starbucks                               ( 2.6794 , 7.7190 )                        1.9901
+Barista and Retail Associate                       ( 5.8829 , 7.8494 )                        4.1355
+Bakery Team Member                                 ( 3.3229 , 4.8439 )                        1.3661
+Party Hostess                                      ( 6.9535 , 2.8176 )                        5.4970
+Part Time Assistant Teacher                        ( 3.0537 , 7.7148 )                        2.0878
+E-Commerce Fit Model                               ( 2.4374 , 4.4111 )                        1.3577
+School Age Child Care Assistant                    ( 7.5737 , 3.2971 )                        5.8106
+Restaurant Team Member                             ( 2.0619 , 2.9309 )                        2.8432
+Waiter at Luxury Senior Living                     ( 4.5493 , 4.6648 )                        2.4922
+Social Media Intern at curlee Girlee LLC           ( 2.3712 , 4.8598 )                        0.9052
+Busser in The Melting Pot                          ( 3.5990 , 5.9393 )                        1.2988
+Community Habilitation Specialist                  ( 2.5469 , 5.4459 )                        0.3945
+Booth Operator                                     ( 4.4708 , 3.1787 )                        3.3672
+Korean Meal Bagger                                 ( 7.6354 , 2.9432 )                        6.0239
+Waiter at Primavera Restaurant                     ( 4.1586 , 3.3469 )                        3.0409
+Summer Day Camp Group Counselor                    ( 3.2072 , 4.1555 )                        1.8399
+Restaurant Server                                  ( 7.9285 , 6.0740 )                        5.6249
+Game Room Attendant                                ( 3.7873 , 7.3609 )                        2.1746
+Learning Lab Group Leader                          ( 3.1367 , 2.6951 )                        3.1769
+Part-Time Food Handler                             ( 4.4064 , 3.3057 )                        3.2286
+Middle School Mentor                               ( 6.3250 , 4.0081 )                        4.3797
+
+Person: 1
+Job Name                                            Coordinate Points                          Units
+--------------------------------------------------------------------------------------------------------------
+Group Leader for Arts & Education                  ( 4.7732 , 2.5679 )                        1.0255
+Peer Bridger                                       ( 7.0236 , 2.1944 )                        3.1174
+Contributing News/Interview Writer                 ( 6.7089 , 2.2516 )                        2.8052
+Student Advisor TRIO Upward Bound                  ( 4.0484 , 2.8697 )                        0.5107
+Childcare Entry Level Assistant Teacher            ( 4.4599 , 5.0658 )                        1.7237
+Child Development Center Assitant                  ( 4.7741 , 3.1279 )                        0.6821
+Warehouse Associate                                ( 4.1369 , 3.6447 )                        0.2721
+Preschool Teacher Assistant                        ( 7.4313 , 6.3530 )                        4.4421
+Group Leader for NYC Mission Society               ( 7.4705 , 5.4523 )                        3.9287
+Booth Cashier                                      ( 3.3804 , 2.8289 )                        0.9320
+Math Tutor                                         ( 6.3504 , 5.9528 )                        3.3992
+Infant Teacher                                     ( 4.2368 , 4.1034 )                        0.7376
+TLC Social Media & Content Intern                  ( 2.8786 , 3.4552 )                        1.2615
+Arts Criticism Intern                              ( 3.0722 , 3.6330 )                        1.0966
+Operations                                         ( 3.1720 , 5.2348 )                        2.0976
+Minecraft Instructor                               ( 5.5478 , 2.9249 )                        1.4797
+Santa Photo Helper                                 ( 3.5641 , 2.8071 )                        0.8052
+Park Ranger                                        ( 4.3449 , 7.5081 )                        4.1408
+After-School Junior Group Leader                   ( 5.9537 , 3.6886 )                        1.8436
+Camp Counselor                                     ( 4.4470 , 4.3669 )                        1.0414
+Temporary Scan Verification Associate              ( 4.8382 , 7.6246 )                        4.3094
+Direct Support Pro Intern                          ( 7.7115 , 3.9604 )                        3.6221
+Valet Parking Attendant                            ( 6.0397 , 3.0994 )                        1.9218
+Teacher's Assistant                                ( 6.7367 , 7.6321 )                        4.9900
+Kumon Instructor Assistant                         ( 4.2984 , 4.9636 )                        1.5991
+Bakery Team Member                                 ( 4.2853 , 7.0738 )                        3.7042
+House Cleaner                                      ( 3.7541 , 6.2255 )                        2.8786
+Resturant Team Member                              ( 3.4687 , 2.5666 )                        1.0473
+Seasonal Bell Ringer                               ( 5.8758 , 4.4470 )                        2.0436
+Wait Staff                                         ( 3.5290 , 2.9573 )                        0.7367
+Theo Peer                                          ( 7.6230 , 7.7693 )                        5.6108
+Party Assistant                                    ( 4.3712 , 6.7579 )                        3.3934
+Birthday Party Host                                ( 4.5350 , 3.3662 )                        0.3976
+Taco Bell Team Member                              ( 2.0064 , 6.3736 )                        3.6806
+Retail Team Member                                 ( 7.0426 , 6.0815 )                        3.9722
+Dunkin Crew Member                                 ( 6.7591 , 4.2619 )                        2.7685
+Seasonal Picker                                    ( 3.5874 , 5.1511 )                        1.8616
+Dishwasher and Cleaner                             ( 2.4721 , 6.8218 )                        3.8302
+Stocker                                            ( 7.1030 , 2.2486 )                        3.1715
+Production Worker                                  ( 4.0124 , 4.9849 )                        1.6172
+Painting Customer Service Rep                      ( 4.0797 , 4.6105 )                        1.2393
+Corps Ministry Assistant                           ( 2.1351 , 5.8484 )                        3.1841
+Y&C Resturant Crew Member                          ( 5.7808 , 2.7097 )                        1.7720
+Sewing Direct Associate                            ( 7.2090 , 7.2418 )                        4.9402
+Britesmith Brewing Dishwasher                      ( 3.2169 , 4.8391 )                        1.7315
+Doggy Day Camp Attendant                           ( 2.4332 , 6.8589 )                        3.8806
+Antler's Restaurant Dishwasher                     ( 5.2090 , 7.0538 )                        3.8340
+Donut Packer                                       ( 6.9992 , 7.5152 )                        5.0350
+Prep Cook/Dishwasher                               ( 4.2828 , 6.1907 )                        2.8219
+Kinglsey Cleaners                                  ( 4.1526 , 6.2052 )                        2.8327
+PT Office Cleaning                                 ( 6.2374 , 6.1432 )                        3.4766
+Helping Hand Weekend Cleaner                       ( 2.3056 , 4.9385 )                        2.4099
+Bayard Baker Part-Time Cashier                     ( 6.0174 , 5.2154 )                        2.6326
+Plumber's Helper                                   ( 7.2308 , 5.8206 )                        3.9449
+Taco Bell Team Member                              ( 2.9927 , 5.2142 )                        2.1684
+Dishwasher at Hillsdale House                      ( 7.9362 , 3.5265 )                        3.8019
+Luca Trattoria & Pizzeria Counter Help             ( 6.9127 , 6.9595 )                        4.5352
+McDonald's Crew Member                             ( 6.0759 , 3.1763 )                        1.9484
+Dairy Queen Crew Members                           ( 7.6499 , 4.1008 )                        3.5872
+Subway Shift Leader                                ( 2.6955 , 4.6767 )                        1.9442
+Counter Person at Katrinka's INC                   ( 7.3874 , 7.5264 )                        5.2742
+NSinc Front Desk Sports Member                     ( 2.7410 , 5.8335 )                        2.8295
+Valet Parking Attendant                            ( 5.1262 , 6.2328 )                        3.0263
+Gym Front Deskt Member Rep                         ( 3.0801 , 7.9648 )                        4.7124
+Hair Stylist                                       ( 6.3029 , 7.2976 )                        4.4828
+Elementary After School Tutor                      ( 7.7878 , 5.3637 )                        4.1581
+Infant Teacher                                     ( 2.9080 , 3.5535 )                        1.2426
+African Heritage Food Bagger                       ( 5.1448 , 3.7585 )                        1.0788
+Mathnasium Instructor                              ( 7.7791 , 2.7108 )                        3.7013
+Seasonal Picker                                    ( 6.1759 , 2.9112 )                        2.0901
+Hip Hop Assistant Teacher                          ( 6.7222 , 6.0085 )                        3.6918
+Retail Sales Associate                             ( 6.6244 , 2.6718 )                        2.5838
+Cashier/Customer Service                           ( 7.7732 , 7.9953 )                        5.8812
+Nail Technician                                    ( 5.0146 , 6.1706 )                        2.9323
+Child Care Worker                                  ( 6.2621 , 5.7518 )                        3.1899
+Crew Member at Chipotle                           ( 4.8984 , 4.3845 )                        1.2661
+Waiter at PJ Lobster House                         ( 3.3810 , 3.7614 )                        0.8504
+Kumon Teacher's Assistant                          ( 5.5112 , 3.0535 )                        1.4103
+Barista at Starbucks                               ( 2.6794 , 7.7190 )                        4.5845
+Barista and Retail Associate                       ( 5.8829 , 7.8494 )                        4.8051
+Bakery Team Member                                 ( 3.3229 , 4.8439 )                        1.6818
+Party Hostess                                      ( 6.9535 , 2.8176 )                        2.8702
+Part Time Assistant Teacher                        ( 3.0537 , 7.7148 )                        4.4754
+E-Commerce Fit Model                               ( 2.4374 , 4.4111 )                        1.9921
+School Age Child Care Assistant                    ( 7.5737 , 3.2971 )                        3.4371
+Restaurant Team Member                             ( 2.0619 , 2.9309 )                        2.1219
+Waiter at Luxury Senior Living                     ( 4.5493 , 4.6648 )                        1.3563
+Social Media Intern at curlee Girlee LLC           ( 2.3712 , 4.8598 )                        2.3089
+Busser in The Melting Pot                          ( 3.5990 , 5.9393 )                        2.6226
+Community Habilitation Specialist                  ( 2.5469 , 5.4459 )                        2.6132
+Booth Operator                                     ( 4.4708 , 3.1787 )                        0.3856
+Korean Meal Bagger                                 ( 7.6354 , 2.9432 )                        3.5242
+Waiter at Primavera Restaurant                     ( 4.1586 , 3.3469 )                        0.0333
+Summer Day Camp Group Counselor                    ( 3.2072 , 4.1555 )                        1.2159
+Restaurant Server                                  ( 7.9285 , 6.0740 )                        4.6551
+Game Room Attendant                                ( 3.7873 , 7.3609 )                        4.0037
+Learning Lab Group Leader                          ( 3.1367 , 2.6951 )                        1.2085
+Part-Time Food Handler                             ( 4.4064 , 3.3057 )                        0.2772
+Middle School Mentor                               ( 6.3250 , 4.0081 )                        2.2780
+
+Person: 2
+Job Name                                            Coordinate Points                          Units
+--------------------------------------------------------------------------------------------------------------
+Group Leader for Arts & Education                  ( 4.7732 , 2.5679 )                        4.3143
+Peer Bridger                                       ( 7.0236 , 2.1944 )                        3.4790
+Contributing News/Interview Writer                 ( 6.7089 , 2.2516 )                        3.5149
+Student Advisor TRIO Upward Bound                  ( 4.0484 , 2.8697 )                        4.6812
+Childcare Entry Level Assistant Teacher            ( 4.4599 , 5.0658 )                        3.4506
+Child Development Center Assitant                  ( 4.7741 , 3.1279 )                        3.9448
+Warehouse Associate                                ( 4.1369 , 3.6447 )                        4.2027
+Preschool Teacher Assistant                        ( 7.4313 , 6.3530 )                        0.9012
+Group Leader for NYC Mission Society               ( 7.4705 , 5.4523 )                        0.4195
+Booth Cashier                                      ( 3.3804 , 2.8289 )                        5.2624
+Math Tutor                                         ( 6.3504 , 5.9528 )                        1.5713
+Infant Teacher                                     ( 4.2368 , 4.1034 )                        3.9207
+TLC Social Media & Content Intern                  ( 2.8786 , 3.4552 )                        5.4236
+Arts Criticism Intern                              ( 3.0722 , 3.6330 )                        5.1768
+Operations                                         ( 3.1720 , 5.2348 )                        4.7135
+Minecraft Instructor                               ( 5.5478 , 2.9249 )                        3.5208
+Santa Photo Helper                                 ( 3.5641 , 2.8071 )                        5.1181
+Park Ranger                                        ( 4.3449 , 7.5081 )                        4.0271
+After-School Junior Group Leader                   ( 5.9537 , 3.6886 )                        2.6867
+Camp Counselor                                     ( 4.4470 , 4.3669 )                        3.6311
+Temporary Scan Verification Associate              ( 4.8382 , 7.6246 )                        3.6668
+Direct Support Pro Intern                          ( 7.7115 , 3.9604 )                        1.6156
+Valet Parking Attendant                            ( 6.0397 , 3.0994 )                        3.0753
+Teacher's Assistant                                ( 6.7367 , 7.6321 )                        2.3566
+Kumon Instructor Assistant                         ( 4.2984 , 4.9636 )                        3.6261
+Bakery Team Member                                 ( 4.2853 , 7.0738 )                        3.8917
+House Cleaner                                      ( 3.7541 , 6.2255 )                        4.1719
+Resturant Team Member                              ( 3.4687 , 2.5666 )                        5.3304
+Seasonal Bell Ringer                               ( 5.8758 , 4.4470 )                        2.2909
+Wait Staff                                         ( 3.5290 , 2.9573 )                        5.0688
+Theo Peer                                          ( 7.6230 , 7.7693 )                        2.2156
+Party Assistant                                    ( 4.3712 , 6.7579 )                        3.6992
+Birthday Party Host                                ( 4.5350 , 3.3662 )                        3.9994
+Taco Bell Team Member                              ( 2.0064 , 6.3736 )                        5.9224
+Retail Team Member                                 ( 7.0426 , 6.0815 )                        0.9770
+Dunkin Crew Member                                 ( 6.7591 , 4.2619 )                        1.7170
+Seasonal Picker                                    ( 3.5874 , 5.1511 )                        4.3066
+Dishwasher and Cleaner                             ( 2.4721 , 6.8218 )                        5.5453
+Stocker                                            ( 7.1030 , 2.2486 )                        3.4077
+Production Worker                                  ( 4.0124 , 4.9849 )                        3.9052
+Painting Customer Service Rep                      ( 4.0797 , 4.6105 )                        3.9130
+Corps Ministry Assistant                           ( 2.1351 , 5.8484 )                        5.7455
+Y&C Resturant Crew Member                          ( 5.7808 , 2.7097 )                        3.5426
+Sewing Direct Associate                            ( 7.2090 , 7.2418 )                        1.8011
+Britesmith Brewing Dishwasher                      ( 3.2169 , 4.8391 )                        4.7136
+Doggy Day Camp Attendant                           ( 2.4332 , 6.8589 )                        5.5917
+Antler's Restaurant Dishwasher                     ( 5.2090 , 7.0538 )                        3.0511
+Donut Packer                                       ( 6.9992 , 7.5152 )                        2.1347
+Prep Cook/Dishwasher                               ( 4.2828 , 6.1907 )                        3.6446
+Kinglsey Cleaners                                  ( 4.1526 , 6.2052 )                        3.7753
+PT Office Cleaning                                 ( 6.2374 , 6.1432 )                        1.7345
+Helping Hand Weekend Cleaner                       ( 2.3056 , 4.9385 )                        5.6036
+Bayard Baker Part-Time Cashier                     ( 6.0174 , 5.2154 )                        1.8895
+Plumber's Helper                                   ( 7.2308 , 5.8206 )                        0.6908
+Taco Bell Team Member                              ( 2.9927 , 5.2142 )                        4.8938
+Dishwasher at Hillsdale House                      ( 7.9362 , 3.5265 )                        2.0423
+Luca Trattoria & Pizzeria Counter Help             ( 6.9127 , 6.9595 )                        1.6912
+McDonald's Crew Member                             ( 6.0759 , 3.1763 )                        2.9920
+Dairy Queen Crew Members                           ( 7.6499 , 4.1008 )                        1.4840
+Subway Shift Leader                                ( 2.6955 , 4.6767 )                        5.2544
+Counter Person at Katrinka's INC                   ( 7.3874 , 7.5264 )                        2.0180
+NSinc Front Desk Sports Member                     ( 2.7410 , 5.8335 )                        5.1396
+Valet Parking Attendant                            ( 5.1262 , 6.2328 )                        2.8269
+Gym Front Deskt Member Rep                         ( 3.0801 , 7.9648 )                        5.3595
+Hair Stylist                                       ( 6.3029 , 7.2976 )                        2.3365
+Elementary After School Tutor                      ( 7.7878 , 5.3637 )                        0.2216
+Infant Teacher                                     ( 2.9080 , 3.5535 )                        5.3588
+African Heritage Food Bagger                       ( 5.1448 , 3.7585 )                        3.2744
+Mathnasium Instructor                              ( 7.7791 , 2.7108 )                        2.8587
+Seasonal Picker                                    ( 6.1759 , 2.9112 )                        3.1529
+Hip Hop Assistant Teacher                          ( 6.7222 , 6.0085 )                        1.2330
+Retail Sales Associate                             ( 6.6244 , 2.6718 )                        3.1541
+Cashier/Customer Service                           ( 7.7732 , 7.9953 )                        2.4294
+Nail Technician                                    ( 5.0146 , 6.1706 )                        2.9220
+Child Care Worker                                  ( 6.2621 , 5.7518 )                        1.6222
+Crew Member at Chipotle                           ( 4.8984 , 4.3845 )                        3.2021
+Waiter at PJ Lobster House                         ( 3.3810 , 3.7614 )                        4.8424
+Kumon Teacher's Assistant                          ( 5.5112 , 3.0535 )                        3.4503
+Barista at Starbucks                               ( 2.6794 , 7.7190 )                        5.6222
+Barista and Retail Associate                       ( 5.8829 , 7.8494 )                        3.0280
+Bakery Team Member                                 ( 3.3229 , 4.8439 )                        4.6081
+Party Hostess                                      ( 6.9535 , 2.8176 )                        2.9002
+Part Time Assistant Teacher                        ( 3.0537 , 7.7148 )                        5.2765
+E-Commerce Fit Model                               ( 2.4374 , 4.4111 )                        5.5581
+School Age Child Care Assistant                    ( 7.5737 , 3.2971 )                        2.2906
+Restaurant Team Member                             ( 2.0619 , 2.9309 )                        6.3821
+Waiter at Luxury Senior Living                     ( 4.5493 , 4.6648 )                        3.4449
+Social Media Intern at curlee Girlee LLC           ( 2.3712 , 4.8598 )                        5.5479
+Busser in The Melting Pot                          ( 3.5990 , 5.9393 )                        4.2909
+Community Habilitation Specialist                  ( 2.5469 , 5.4459 )                        5.3283
+Booth Operator                                     ( 4.4708 , 3.1787 )                        4.1580
+Korean Meal Bagger                                 ( 7.6354 , 2.9432 )                        2.6355
+Waiter at Primavera Restaurant                     ( 4.1586 , 3.3469 )                        4.3284
+Summer Day Camp Group Counselor                    ( 3.2072 , 4.1555 )                        4.8757
+Restaurant Server                                  ( 7.9285 , 6.0740 )                        0.5091
+Game Room Attendant                                ( 3.7873 , 7.3609 )                        4.4626
+Learning Lab Group Leader                          ( 3.1367 , 2.6951 )                        5.5401
+Part-Time Food Handler                             ( 4.4064 , 3.3057 )                        4.1400
+Middle School Mentor                               ( 6.3250 , 4.0081 )                        2.1981
+
+Person: 3
+Job Name                                            Coordinate Points                          Units
+--------------------------------------------------------------------------------------------------------------
+Group Leader for Arts & Education                  ( 4.7732 , 2.5679 )                        2.3247
+Peer Bridger                                       ( 7.0236 , 2.1944 )                        0.0436
+Contributing News/Interview Writer                 ( 6.7089 , 2.2516 )                        0.3634
+Student Advisor TRIO Upward Bound                  ( 4.0484 , 2.8697 )                        3.0944
+Childcare Entry Level Assistant Teacher            ( 4.4599 , 5.0658 )                        3.8833
+Child Development Center Assitant                  ( 4.7741 , 3.1279 )                        2.4779
+Warehouse Associate                                ( 4.1369 , 3.6447 )                        3.2721
+Preschool Teacher Assistant                        ( 7.4313 , 6.3530 )                        4.1816
+Group Leader for NYC Mission Society               ( 7.4705 , 5.4523 )                        3.2898
+Booth Cashier                                      ( 3.3804 , 2.8289 )                        3.7417
+Math Tutor                                         ( 6.3504 , 5.9528 )                        3.8329
+Infant Teacher                                     ( 4.2368 , 4.1034 )                        3.4175
+TLC Social Media & Content Intern                  ( 2.8786 , 3.4552 )                        4.3757
+Arts Criticism Intern                              ( 3.0722 , 3.6330 )                        4.2480
+Operations                                         ( 3.1720 , 5.2348 )                        4.9452
+Minecraft Instructor                               ( 5.5478 , 2.9249 )                        1.6884
+Santa Photo Helper                                 ( 3.5641 , 2.8071 )                        3.5569
+Park Ranger                                        ( 4.3449 , 7.5081 )                        5.9765
+After-School Junior Group Leader                   ( 5.9537 , 3.6886 )                        1.8687
+Camp Counselor                                     ( 4.4470 , 4.3669 )                        3.4077
+Temporary Scan Verification Associate              ( 4.8382 , 7.6246 )                        5.8762
+Direct Support Pro Intern                          ( 7.7115 , 3.9604 )                        1.8867
+Valet Parking Attendant                            ( 6.0397 , 3.0994 )                        1.3735
+Teacher's Assistant                                ( 6.7367 , 7.6321 )                        5.4547
+Kumon Instructor Assistant                         ( 4.2984 , 4.9636 )                        3.9205
+Bakery Team Member                                 ( 4.2853 , 7.0738 )                        5.6225
+House Cleaner                                      ( 3.7541 , 6.2255 )                        5.2230
+Resturant Team Member                              ( 3.4687 , 2.5666 )                        3.6179
+Seasonal Bell Ringer                               ( 5.8758 , 4.4470 )                        2.5543
+Wait Staff                                         ( 3.5290 , 2.9573 )                        3.6204
+Theo Peer                                          ( 7.6230 , 7.7693 )                        5.6096
+Party Assistant                                    ( 4.3712 , 6.7579 )                        5.3061
+Birthday Party Host                                ( 4.5350 , 3.3662 )                        2.7926
+Taco Bell Team Member                              ( 2.0064 , 6.3736 )                        6.5673
+Retail Team Member                                 ( 7.0426 , 6.0815 )                        3.8942
+Dunkin Crew Member                                 ( 6.7591 , 4.2619 )                        2.0972
+Seasonal Picker                                    ( 3.5874 , 5.1511 )                        4.5704
+Dishwasher and Cleaner                             ( 2.4721 , 6.8218 )                        6.5259
+Stocker                                            ( 7.1030 , 2.2486 )                        0.0712
+Production Worker                                  ( 4.0124 , 4.9849 )                        4.1418
+Painting Customer Service Rep                      ( 4.0797 , 4.6105 )                        3.8462
+Corps Ministry Assistant                           ( 2.1351 , 5.8484 )                        6.1419
+Y&C Resturant Crew Member                          ( 5.7808 , 2.7097 )                        1.3879
+Sewing Direct Associate                            ( 7.2090 , 7.2418 )                        5.0564
+Britesmith Brewing Dishwasher                      ( 3.2169 , 4.8391 )                        4.6746
+Doggy Day Camp Attendant                           ( 2.4332 , 6.8589 )                        6.5797
+Antler's Restaurant Dishwasher                     ( 5.2090 , 7.0538 )                        5.2089
+Donut Packer                                       ( 6.9992 , 7.5152 )                        5.3282
+Prep Cook/Dishwasher                               ( 4.2828 , 6.1907 )                        4.8761
+Kinglsey Cleaners                                  ( 4.1526 , 6.2052 )                        4.9633
+PT Office Cleaning                                 ( 6.2374 , 6.1432 )                        4.0418
+Helping Hand Weekend Cleaner                       ( 2.3056 , 4.9385 )                        5.4987
+Bayard Baker Part-Time Cashier                     ( 6.0174 , 5.2154 )                        3.2047
+Plumber's Helper                                   ( 7.2308 , 5.8206 )                        3.6370
+Taco Bell Team Member                              ( 2.9927 , 5.2142 )                        5.0752
+Dishwasher at Hillsdale House                      ( 7.9362 , 3.5265 )                        1.5968
+Luca Trattoria & Pizzeria Counter Help             ( 6.9127 , 6.9595 )                        4.7746
+McDonald's Crew Member                             ( 6.0759 , 3.1763 )                        1.3998
+Dairy Queen Crew Members                           ( 7.6499 , 4.1008 )                        2.0004
+Subway Shift Leader                                ( 2.6955 , 4.6767 )                        5.0302
+Counter Person at Katrinka's INC                   ( 7.3874 , 7.5264 )                        5.3487
+NSinc Front Desk Sports Member                     ( 2.7410 , 5.8335 )                        5.6573
+Valet Parking Attendant                            ( 5.1262 , 6.2328 )                        4.4867
+Gym Front Deskt Member Rep                         ( 3.0801 , 7.9648 )                        7.0193
+Hair Stylist                                       ( 6.3029 , 7.2976 )                        5.1670
+Elementary After School Tutor                      ( 7.7878 , 5.3637 )                        3.2572
+Infant Teacher                                     ( 2.9080 , 3.5535 )                        4.3772
+African Heritage Food Bagger                       ( 5.1448 , 3.7585 )                        2.4823
+Mathnasium Instructor                              ( 7.7791 , 2.7108 )                        0.8841
+Seasonal Picker                                    ( 6.1759 , 2.9112 )                        1.1477
+Hip Hop Assistant Teacher                          ( 6.7222 , 6.0085 )                        3.8366
+Retail Sales Associate                             ( 6.6244 , 2.6718 )                        0.6559
+Cashier/Customer Service                           ( 7.7732 , 7.9953 )                        5.8507
+Nail Technician                                    ( 5.0146 , 6.1706 )                        4.4807
+Child Care Worker                                  ( 6.2621 , 5.7518 )                        3.6542
+Crew Member at Chipotle                           ( 4.8984 , 4.3845 )                        3.0869
+Waiter at PJ Lobster House                         ( 3.3810 , 3.7614 )                        4.0076
+Kumon Teacher's Assistant                          ( 5.5112 , 3.0535 )                        1.7803
+Barista at Starbucks                               ( 2.6794 , 7.7190 )                        7.0602
+Barista and Retail Associate                       ( 5.8829 , 7.8494 )                        5.7845
+Bakery Team Member                                 ( 3.3229 , 4.8439 )                        4.5905
+Party Hostess                                      ( 6.9535 , 2.8176 )                        0.6403
+Part Time Assistant Teacher                        ( 3.0537 , 7.7148 )                        6.8305
+E-Commerce Fit Model                               ( 2.4374 , 4.4111 )                        5.1356
+School Age Child Care Assistant                    ( 7.5737 , 3.2971 )                        1.2201
+Restaurant Team Member                             ( 2.0619 , 2.9309 )                        5.0596
+Waiter at Luxury Senior Living                     ( 4.5493 , 4.6648 )                        3.5319
+Social Media Intern at curlee Girlee LLC           ( 2.3712 , 4.8598 )                        5.4026
+Busser in The Melting Pot                          ( 3.5990 , 5.9393 )                        5.1089
+Community Habilitation Specialist                  ( 2.5469 , 5.4459 )                        5.5719
+Booth Operator                                     ( 4.4708 , 3.1787 )                        2.7787
+Korean Meal Bagger                                 ( 7.6354 , 2.9432 )                        0.9460
+Waiter at Primavera Restaurant                     ( 4.1586 , 3.3469 )                        3.1306
+Summer Day Camp Group Counselor                    ( 3.2072 , 4.1555 )                        4.3323
+Restaurant Server                                  ( 7.9285 , 6.0740 )                        3.9811
+Game Room Attendant                                ( 3.7873 , 7.3609 )                        6.1253
+Learning Lab Group Leader                          ( 3.1367 , 2.6951 )                        3.9625
+Part-Time Food Handler                             ( 4.4064 , 3.3057 )                        2.8857
+Middle School Mentor                               ( 6.3250 , 4.0081 )                        1.9660
+
+Person: 4
+Job Name                                            Coordinate Points                          Units
+--------------------------------------------------------------------------------------------------------------
+Group Leader for Arts & Education                  ( 4.7732 , 2.5679 )                        0.2758
+Peer Bridger                                       ( 7.0236 , 2.1944 )                        2.5450
+Contributing News/Interview Writer                 ( 6.7089 , 2.2516 )                        2.2256
+Student Advisor TRIO Upward Bound                  ( 4.0484 , 2.8697 )                        0.5670
+Childcare Entry Level Assistant Teacher            ( 4.4599 , 5.0658 )                        2.5388
+Child Development Center Assitant                  ( 4.7741 , 3.1279 )                        0.6600
+Warehouse Associate                                ( 4.1369 , 3.6447 )                        1.1750
+Preschool Teacher Assistant                        ( 7.4313 , 6.3530 )                        4.8193
+Group Leader for NYC Mission Society               ( 7.4705 , 5.4523 )                        4.1685
+Booth Cashier                                      ( 3.3804 , 2.8289 )                        1.1600
+Math Tutor                                         ( 6.3504 , 5.9528 )                        3.8930
+Infant Teacher                                     ( 4.2368 , 4.1034 )                        1.5980
+TLC Social Media & Content Intern                  ( 2.8786 , 3.4552 )                        1.8685
+Arts Criticism Intern                              ( 3.0722 , 3.6330 )                        1.8062
+Operations                                         ( 3.1720 , 5.2348 )                        3.0158
+Minecraft Instructor                               ( 5.5478 , 2.9249 )                        1.1202
+Santa Photo Helper                                 ( 3.5641 , 2.8071 )                        0.9773
+Park Ranger                                        ( 4.3449 , 7.5081 )                        4.9832
+After-School Junior Group Leader                   ( 5.9537 , 3.6886 )                        1.8602
+Camp Counselor                                     ( 4.4470 , 4.3669 )                        1.8403
+Temporary Scan Verification Associate              ( 4.8382 , 7.6246 )                        5.1085
+Direct Support Pro Intern                          ( 7.7115 , 3.9604 )                        3.5163
+Valet Parking Attendant                            ( 6.0397 , 3.0994 )                        1.6421
+Teacher's Assistant                                ( 6.7367 , 7.6321 )                        5.5731
+Kumon Instructor Assistant                         ( 4.2984 , 4.9636 )                        2.4446
+Bakery Team Member                                 ( 4.2853 , 7.0738 )                        4.5515
+House Cleaner                                      ( 3.7541 , 6.2255 )                        3.7727
+Resturant Team Member                              ( 3.4687 , 2.5666 )                        1.0325
+Seasonal Bell Ringer                               ( 5.8758 , 4.4470 )                        2.3615
+Wait Staff                                         ( 3.5290 , 2.9573 )                        1.0624
+Theo Peer                                          ( 7.6230 , 7.7693 )                        6.1015
+Party Assistant                                    ( 4.3712 , 6.7579 )                        4.2325
+Birthday Party Host                                ( 4.5350 , 3.3662 )                        0.8396
+Taco Bell Team Member                              ( 2.0064 , 6.3736 )                        4.5841
+Retail Team Member                                 ( 7.0426 , 6.0815 )                        4.3697
+Dunkin Crew Member                                 ( 6.7591 , 4.2619 )                        2.8478
+Seasonal Picker                                    ( 3.5874 , 5.1511 )                        2.7781
+Dishwasher and Cleaner                             ( 2.4721 , 6.8218 )                        4.7494
+Stocker                                            ( 7.1030 , 2.2486 )                        2.6175
+Production Worker                                  ( 4.0124 , 4.9849 )                        2.5056
+Painting Customer Service Rep                      ( 4.0797 , 4.6105 )                        2.1252
+Corps Ministry Assistant                           ( 2.1351 , 5.8484 )                        4.0773
+Y&C Resturant Crew Member                          ( 5.7808 , 2.7097 )                        1.2932
+Sewing Direct Associate                            ( 7.2090 , 7.2418 )                        5.4371
+Britesmith Brewing Dishwasher                      ( 3.2169 , 4.8391 )                        2.6442
+Doggy Day Camp Attendant                           ( 2.4332 , 6.8589 )                        4.7996
+Antler's Restaurant Dishwasher                     ( 5.2090 , 7.0538 )                        4.5815
+Donut Packer                                       ( 6.9992 , 7.5152 )                        5.5787
+Prep Cook/Dishwasher                               ( 4.2828 , 6.1907 )                        3.6698
+Kinglsey Cleaners                                  ( 4.1526 , 6.2052 )                        3.6943
+PT Office Cleaning                                 ( 6.2374 , 6.1432 )                        4.0114
+Helping Hand Weekend Cleaner                       ( 2.3056 , 4.9385 )                        3.2605
+Bayard Baker Part-Time Cashier                     ( 6.0174 , 5.2154 )                        3.0866
+Plumber's Helper                                   ( 7.2308 , 5.8206 )                        4.2779
+Taco Bell Team Member                              ( 2.9927 , 5.2142 )                        3.0810
+Dishwasher at Hillsdale House                      ( 7.9362 , 3.5265 )                        3.5781
+Luca Trattoria & Pizzeria Counter Help             ( 6.9127 , 6.9595 )                        5.0460
+McDonald's Crew Member                             ( 6.0759 , 3.1763 )                        1.7039
+Dairy Queen Crew Members                           ( 7.6499 , 4.1008 )                        3.5206
+Subway Shift Leader                                ( 2.6955 , 4.6767 )                        2.8067
+Counter Person at Katrinka's INC                   ( 7.3874 , 7.5264 )                        5.7728
+NSinc Front Desk Sports Member                     ( 2.7410 , 5.8335 )                        3.7451
+Valet Parking Attendant                            ( 5.1262 , 6.2328 )                        3.7579
+Gym Front Deskt Member Rep                         ( 3.0801 , 7.9648 )                        5.6199
+Hair Stylist                                       ( 6.3029 , 7.2976 )                        5.0994
+Elementary After School Tutor                      ( 7.7878 , 5.3637 )                        4.3418
+Infant Teacher                                     ( 2.9080 , 3.5535 )                        1.8944
+African Heritage Food Bagger                       ( 5.1448 , 3.7585 )                        1.3895
+Mathnasium Instructor                              ( 7.7791 , 2.7108 )                        3.2838
+Seasonal Picker                                    ( 6.1759 , 2.9112 )                        1.7189
+Hip Hop Assistant Teacher                          ( 6.7222 , 6.0085 )                        4.1297
+Retail Sales Associate                             ( 6.6244 , 2.6718 )                        2.1288
+Cashier/Customer Service                           ( 7.7732 , 7.9953 )                        6.3725
+Nail Technician                                    ( 5.0146 , 6.1706 )                        3.6793
+Child Care Worker                                  ( 6.2621 , 5.7518 )                        3.6743
+Crew Member at Chipotle                           ( 4.8984 , 4.3845 )                        1.8993
+Waiter at PJ Lobster House                         ( 3.3810 , 3.7614 )                        1.6661
+Kumon Teacher's Assistant                          ( 5.5112 , 3.0535 )                        1.1394
+Barista at Starbucks                               ( 2.6794 , 7.7190 )                        5.5018
+Barista and Retail Associate                       ( 5.8829 , 7.8494 )                        5.4987
+Bakery Team Member                                 ( 3.3229 , 4.8439 )                        2.5987
+Party Hostess                                      ( 6.9535 , 2.8176 )                        2.4701
+Part Time Assistant Teacher                        ( 3.0537 , 7.7148 )                        5.3854
+E-Commerce Fit Model                               ( 2.4374 , 4.4111 )                        2.7937
+School Age Child Care Assistant                    ( 7.5737 , 3.2971 )                        3.1681
+Restaurant Team Member                             ( 2.0619 , 2.9309 )                        2.4717
+Waiter at Luxury Senior Living                     ( 4.5493 , 4.6648 )                        2.1380
+Social Media Intern at curlee Girlee LLC           ( 2.3712 , 4.8598 )                        3.1581
+Busser in The Melting Pot                          ( 3.5990 , 5.9393 )                        3.5290
+Community Habilitation Specialist                  ( 2.5469 , 5.4459 )                        3.5121
+Booth Operator                                     ( 4.4708 , 3.1787 )                        0.6521
+Korean Meal Bagger                                 ( 7.6354 , 2.9432 )                        3.1624
+Waiter at Primavera Restaurant                     ( 4.1586 , 3.3469 )                        0.8880
+Summer Day Camp Group Counselor                    ( 3.2072 , 4.1555 )                        2.0793
+Restaurant Server                                  ( 7.9285 , 6.0740 )                        4.9326
+Game Room Attendant                                ( 3.7873 , 7.3609 )                        4.8859
+Learning Lab Group Leader                          ( 3.1367 , 2.6951 )                        1.3740
+Part-Time Food Handler                             ( 4.4064 , 3.3057 )                        0.7840
+Middle School Mentor                               ( 6.3250 , 4.0081 )                        2.3498
+
+Person: 5
+Job Name                                            Coordinate Points                          Units
+--------------------------------------------------------------------------------------------------------------
+Group Leader for Arts & Education                  ( 4.7732 , 2.5679 )                        5.5356
+Peer Bridger                                       ( 7.0236 , 2.1944 )                        5.8155
+Contributing News/Interview Writer                 ( 6.7089 , 2.2516 )                        5.7178
+Student Advisor TRIO Upward Bound                  ( 4.0484 , 2.8697 )                        5.4738
+Childcare Entry Level Assistant Teacher            ( 4.4599 , 5.0658 )                        3.3153
+Child Development Center Assitant                  ( 4.7741 , 3.1279 )                        4.9939
+Warehouse Associate                                ( 4.1369 , 3.6447 )                        4.7274
+Preschool Teacher Assistant                        ( 7.4313 , 6.3530 )                        2.0608
+Group Leader for NYC Mission Society               ( 7.4705 , 5.4523 )                        2.8319
+Booth Cashier                                      ( 3.3804 , 2.8289 )                        5.7953
+Math Tutor                                         ( 6.3504 , 5.9528 )                        1.9997
+Infant Teacher                                     ( 4.2368 , 4.1034 )                        4.2702
+TLC Social Media & Content Intern                  ( 2.8786 , 3.4552 )                        5.5293
+Arts Criticism Intern                              ( 3.0722 , 3.6330 )                        5.2721
+Operations                                         ( 3.1720 , 5.2348 )                        3.9962
+Minecraft Instructor                               ( 5.5478 , 2.9249 )                        5.0456
+Santa Photo Helper                                 ( 3.5641 , 2.8071 )                        5.7304
+Park Ranger                                        ( 4.3449 , 7.5081 )                        1.8214
+After-School Junior Group Leader                   ( 5.9537 , 3.6886 )                        4.2530
+Camp Counselor                                     ( 4.4470 , 4.3669 )                        3.9418
+Temporary Scan Verification Associate              ( 4.8382 , 7.6246 )                        1.3146
+Direct Support Pro Intern                          ( 7.7115 , 3.9604 )                        4.2866
+Valet Parking Attendant                            ( 6.0397 , 3.0994 )                        4.8397
+Teacher's Assistant                                ( 6.7367 , 7.6321 )                        0.6934
+Kumon Instructor Assistant                         ( 4.2984 , 4.9636 )                        3.4856
+Bakery Team Member                                 ( 4.2853 , 7.0738 )                        2.0236
+House Cleaner                                      ( 3.7541 , 6.2255 )                        2.9167
+Resturant Team Member                              ( 3.4687 , 2.5666 )                        5.9882
+Seasonal Bell Ringer                               ( 5.8758 , 4.4470 )                        3.4996
+Wait Staff                                         ( 3.5290 , 2.9573 )                        5.6124
+Theo Peer                                          ( 7.6230 , 7.7693 )                        1.5177
+Party Assistant                                    ( 4.3712 , 6.7579 )                        2.1057
+Birthday Party Host                                ( 4.5350 , 3.3662 )                        4.8375
+Taco Bell Team Member                              ( 2.0064 , 6.3736 )                        4.3963
+Retail Team Member                                 ( 7.0426 , 6.0815 )                        2.0759
+Dunkin Crew Member                                 ( 6.7591 , 4.2619 )                        3.7326
+Seasonal Picker                                    ( 3.5874 , 5.1511 )                        3.7626
+Dishwasher and Cleaner                             ( 2.4721 , 6.8218 )                        3.8100
+Stocker                                            ( 7.1030 , 2.2486 )                        5.7751
+Production Worker                                  ( 4.0124 , 4.9849 )                        3.6255
+Painting Customer Service Rep                      ( 4.0797 , 4.6105 )                        3.9009
+Corps Ministry Assistant                           ( 2.1351 , 5.8484 )                        4.4951
+Y&C Resturant Crew Member                          ( 5.7808 , 2.7097 )                        5.2395
+Sewing Direct Associate                            ( 7.2090 , 7.2418 )                        1.2972
+Britesmith Brewing Dishwasher                      ( 3.2169 , 4.8391 )                        4.2431
+Doggy Day Camp Attendant                           ( 2.4332 , 6.8589 )                        3.8367
+Antler's Restaurant Dishwasher                     ( 5.2090 , 7.0538 )                        1.2662
+Donut Packer                                       ( 6.9992 , 7.5152 )                        0.9805
+Prep Cook/Dishwasher                               ( 4.2828 , 6.1907 )                        2.5320
+Kinglsey Cleaners                                  ( 4.1526 , 6.2052 )                        2.6181
+PT Office Cleaning                                 ( 6.2374 , 6.1432 )                        1.7995
+Helping Hand Weekend Cleaner                       ( 2.3056 , 4.9385 )                        4.8487
+Bayard Baker Part-Time Cashier                     ( 6.0174 , 5.2154 )                        2.7248
+Plumber's Helper                                   ( 7.2308 , 5.8206 )                        2.3939
+Taco Bell Team Member                              ( 2.9927 , 5.2142 )                        4.1436
+Dishwasher at Hillsdale House                      ( 7.9362 , 3.5265 )                        4.7732
+Luca Trattoria & Pizzeria Counter Help             ( 6.9127 , 6.9595 )                        1.2630
+McDonald's Crew Member                             ( 6.0759 , 3.1763 )                        4.7624
+Dairy Queen Crew Members                           ( 7.6499 , 4.1008 )                        4.1333
+Subway Shift Leader                                ( 2.6955 , 4.6767 )                        4.7256
+Counter Person at Katrinka's INC                   ( 7.3874 , 7.5264 )                        1.3377
+NSinc Front Desk Sports Member                     ( 2.7410 , 5.8335 )                        3.9766
+Valet Parking Attendant                            ( 5.1262 , 6.2328 )                        1.9715
+Gym Front Deskt Member Rep                         ( 3.0801 , 7.9648 )                        3.0348
+Hair Stylist                                       ( 6.3029 , 7.2976 )                        0.6680
+Elementary After School Tutor                      ( 7.7878 , 5.3637 )                        3.0706
+Infant Teacher                                     ( 2.9080 , 3.5535 )                        5.4325
+African Heritage Food Bagger                       ( 5.1448 , 3.7585 )                        4.2911
+Mathnasium Instructor                              ( 7.7791 , 2.7108 )                        5.4862
+Seasonal Picker                                    ( 6.1759 , 2.9112 )                        5.0277
+Hip Hop Assistant Teacher                          ( 6.7222 , 6.0085 )                        2.0234
+Retail Sales Associate                             ( 6.6244 , 2.6718 )                        5.2913
+Cashier/Customer Service                           ( 7.7732 , 7.9953 )                        1.6594
+Nail Technician                                    ( 5.0146 , 6.1706 )                        2.0823
+Child Care Worker                                  ( 6.2621 , 5.7518 )                        2.1916
+Crew Member at Chipotle                           ( 4.8984 , 4.3845 )                        3.7564
+Waiter at PJ Lobster House                         ( 3.3810 , 3.7614 )                        4.9922
+Kumon Teacher's Assistant                          ( 5.5112 , 3.0535 )                        4.9222
+Barista at Starbucks                               ( 2.6794 , 7.7190 )                        3.4424
+Barista and Retail Associate                       ( 5.8829 , 7.8494 )                        0.2484
+Bakery Team Member                                 ( 3.3229 , 4.8439 )                        4.1679
+Party Hostess                                      ( 6.9535 , 2.8176 )                        5.1892
+Part Time Assistant Teacher                        ( 3.0537 , 7.7148 )                        3.0692
+E-Commerce Fit Model                               ( 2.4374 , 4.4111 )                        5.0956
+School Age Child Care Assistant                    ( 7.5737 , 3.2971 )                        4.8653
+Restaurant Team Member                             ( 2.0619 , 2.9309 )                        6.4422
+Waiter at Luxury Senior Living                     ( 4.5493 , 4.6648 )                        3.6288
+Social Media Intern at curlee Girlee LLC           ( 2.3712 , 4.8598 )                        4.8469
+Busser in The Melting Pot                          ( 3.5990 , 5.9393 )                        3.2134
+Community Habilitation Specialist                  ( 2.5469 , 5.4459 )                        4.3524
+Booth Operator                                     ( 4.4708 , 3.1787 )                        5.0357
+Korean Meal Bagger                                 ( 7.6354 , 2.9432 )                        5.2216
+Waiter at Primavera Restaurant                     ( 4.1586 , 3.3469 )                        4.9909
+Summer Day Camp Group Counselor                    ( 3.2072 , 4.1555 )                        4.7713
+Restaurant Server                                  ( 7.9285 , 6.0740 )                        2.6011
+Game Room Attendant                                ( 3.7873 , 7.3609 )                        2.3981
+Learning Lab Group Leader                          ( 3.1367 , 2.6951 )                        6.0302
+Part-Time Food Handler                             ( 4.4064 , 3.3057 )                        4.9377
+Middle School Mentor                               ( 6.3250 , 4.0081 )                        3.9360
+
+Person: 6
+Job Name                                            Coordinate Points                          Units
+--------------------------------------------------------------------------------------------------------------
+Group Leader for Arts & Education                  ( 4.7732 , 2.5679 )                        3.4678
+Peer Bridger                                       ( 7.0236 , 2.1944 )                        3.3887
+Contributing News/Interview Writer                 ( 6.7089 , 2.2516 )                        3.3016
+Student Advisor TRIO Upward Bound                  ( 4.0484 , 2.8697 )                        3.6621
+Childcare Entry Level Assistant Teacher            ( 4.4599 , 5.0658 )                        2.1401
+Child Development Center Assitant                  ( 4.7741 , 3.1279 )                        2.9995
+Warehouse Associate                                ( 4.1369 , 3.6447 )                        3.0699
+Preschool Teacher Assistant                        ( 7.4313 , 6.3530 )                        1.1968
+Group Leader for NYC Mission Society               ( 7.4705 , 5.4523 )                        0.9309
+Booth Cashier                                      ( 3.3804 , 2.8289 )                        4.1728
+Math Tutor                                         ( 6.3504 , 5.9528 )                        0.4480
+Infant Teacher                                     ( 4.2368 , 4.1034 )                        2.7233
+TLC Social Media & Content Intern                  ( 2.8786 , 3.4552 )                        4.2220
+Arts Criticism Intern                              ( 3.0722 , 3.6330 )                        3.9661
+Operations                                         ( 3.1720 , 5.2348 )                        3.3873
+Minecraft Instructor                               ( 5.5478 , 2.9249 )                        2.8072
+Santa Photo Helper                                 ( 3.5641 , 2.8071 )                        4.0500
+Park Ranger                                        ( 4.3449 , 7.5081 )                        2.9456
+After-School Junior Group Leader                   ( 5.9537 , 3.6886 )                        1.9521
+Camp Counselor                                     ( 4.4470 , 4.3669 )                        2.4079
+Temporary Scan Verification Associate              ( 4.8382 , 7.6246 )                        2.6870
+Direct Support Pro Intern                          ( 7.7115 , 3.9604 )                        1.9712
+Valet Parking Attendant                            ( 6.0397 , 3.0994 )                        2.5013
+Teacher's Assistant                                ( 6.7367 , 7.6321 )                        2.0918
+Kumon Instructor Assistant                         ( 4.2984 , 4.9636 )                        2.3214
+Bakery Team Member                                 ( 4.2853 , 7.0738 )                        2.7257
+House Cleaner                                      ( 3.7541 , 6.2255 )                        2.8714
+Resturant Team Member                              ( 3.4687 , 2.5666 )                        4.2845
+Seasonal Bell Ringer                               ( 5.8758 , 4.4470 )                        1.2892
+Wait Staff                                         ( 3.5290 , 2.9573 )                        3.9765
+Theo Peer                                          ( 7.6230 , 7.7693 )                        2.4682
+Party Assistant                                    ( 4.3712 , 6.7579 )                        2.4870
+Birthday Party Host                                ( 4.5350 , 3.3662 )                        2.9672
+Taco Bell Team Member                              ( 2.0064 , 6.3736 )                        4.6125
+Retail Team Member                                 ( 7.0426 , 6.0815 )                        0.7290
+Dunkin Crew Member                                 ( 6.7591 , 4.2619 )                        1.3050
+Seasonal Picker                                    ( 3.5874 , 5.1511 )                        2.9839
+Dishwasher and Cleaner                             ( 2.4721 , 6.8218 )                        4.2668
+Stocker                                            ( 7.1030 , 2.2486 )                        3.3475
+Production Worker                                  ( 4.0124 , 4.9849 )                        2.5944
+Painting Customer Service Rep                      ( 4.0797 , 4.6105 )                        2.6376
+Corps Ministry Assistant                           ( 2.1351 , 5.8484 )                        4.4197
+Y&C Resturant Crew Member                          ( 5.7808 , 2.7097 )                        2.9404
+Sewing Direct Associate                            ( 7.2090 , 7.2418 )                        1.8183
+Britesmith Brewing Dishwasher                      ( 3.2169 , 4.8391 )                        3.4027
+Doggy Day Camp Attendant                           ( 2.4332 , 6.8589 )                        4.3151
+Antler's Restaurant Dishwasher                     ( 5.2090 , 7.0538 )                        2.0120
+Donut Packer                                       ( 6.9992 , 7.5152 )                        2.0179
+Prep Cook/Dishwasher                               ( 4.2828 , 6.1907 )                        2.3511
+Kinglsey Cleaners                                  ( 4.1526 , 6.2052 )                        2.4804
+PT Office Cleaning                                 ( 6.2374 , 6.1432 )                        0.6688
+Helping Hand Weekend Cleaner                       ( 2.3056 , 4.9385 )                        4.2828
+Bayard Baker Part-Time Cashier                     ( 6.0174 , 5.2154 )                        0.6240
+Plumber's Helper                                   ( 7.2308 , 5.8206 )                        0.7379
+Taco Bell Team Member                              ( 2.9927 , 5.2142 )                        3.5677
+Dishwasher at Hillsdale House                      ( 7.9362 , 3.5265 )                        2.4550
+Luca Trattoria & Pizzeria Counter Help             ( 6.9127 , 6.9595 )                        1.4575
+McDonald's Crew Member                             ( 6.0759 , 3.1763 )                        2.4187
+Dairy Queen Crew Members                           ( 7.6499 , 4.1008 )                        1.8218
+Subway Shift Leader                                ( 2.6955 , 4.6767 )                        3.9468
+Counter Person at Katrinka's INC                   ( 7.3874 , 7.5264 )                        2.1494
+NSinc Front Desk Sports Member                     ( 2.7410 , 5.8335 )                        3.8143
+Valet Parking Attendant                            ( 5.1262 , 6.2328 )                        1.5747
+Gym Front Deskt Member Rep                         ( 3.0801 , 7.9648 )                        4.2236
+Hair Stylist                                       ( 6.3029 , 7.2976 )                        1.7651
+Elementary After School Tutor                      ( 7.7878 , 5.3637 )                        1.2568
+Infant Teacher                                     ( 2.9080 , 3.5535 )                        4.1482
+African Heritage Food Bagger                       ( 5.1448 , 3.7585 )                        2.2729
+Mathnasium Instructor                              ( 7.7791 , 2.7108 )                        3.0951
+Seasonal Picker                                    ( 6.1759 , 2.9112 )                        2.6636
+Hip Hop Assistant Teacher                          ( 6.7222 , 6.0085 )                        0.4925
+Retail Sales Associate                             ( 6.6244 , 2.6718 )                        2.8785
+Cashier/Customer Service                           ( 7.7732 , 7.9953 )                        2.7373
+Nail Technician                                    ( 5.0146 , 6.1706 )                        1.6514
+Child Care Worker                                  ( 6.2621 , 5.7518 )                        0.3478
+Crew Member at Chipotle                           ( 4.8984 , 4.3845 )                        2.0166
+Waiter at PJ Lobster House                         ( 3.3810 , 3.7614 )                        3.6338
+Kumon Teacher's Assistant                          ( 5.5112 , 3.0535 )                        2.7012
+Barista at Starbucks                               ( 2.6794 , 7.7190 )                        4.4327
+Barista and Retail Associate                       ( 5.8829 , 7.8494 )                        2.3936
+Bakery Team Member                                 ( 3.3229 , 4.8439 )                        3.2980
+Party Hostess                                      ( 6.9535 , 2.8176 )                        2.7620
+Part Time Assistant Teacher                        ( 3.0537 , 7.7148 )                        4.1081
+E-Commerce Fit Model                               ( 2.4374 , 4.4111 )                        4.2620
+School Age Child Care Assistant                    ( 7.5737 , 3.2971 )                        2.4760
+Restaurant Team Member                             ( 2.0619 , 2.9309 )                        5.1913
+Waiter at Luxury Senior Living                     ( 4.5493 , 4.6648 )                        2.1825
+Social Media Intern at curlee Girlee LLC           ( 2.3712 , 4.8598 )                        4.2300
+Busser in The Melting Pot                          ( 3.5990 , 5.9393 )                        2.9714
+Community Habilitation Specialist                  ( 2.5469 , 5.4459 )                        3.9992
+Booth Operator                                     ( 4.4708 , 3.1787 )                        3.1496
+Korean Meal Bagger                                 ( 7.6354 , 2.9432 )                        2.8250
+Waiter at Primavera Restaurant                     ( 4.1586 , 3.3469 )                        3.2470
+Summer Day Camp Group Counselor                    ( 3.2072 , 4.1555 )                        3.6168
+Restaurant Server                                  ( 7.9285 , 6.0740 )                        1.4800
+Game Room Attendant                                ( 3.7873 , 7.3609 )                        3.2994
+Learning Lab Group Leader                          ( 3.1367 , 2.6951 )                        4.4452
+Part-Time Food Handler                             ( 4.4064 , 3.3057 )                        3.0992
+Middle School Mentor                               ( 6.3250 , 4.0081 )                        1.5566
+
+Person: 7
+Job Name                                            Coordinate Points                          Units
+--------------------------------------------------------------------------------------------------------------
+Group Leader for Arts & Education                  ( 4.7732 , 2.5679 )                        4.5667
+Peer Bridger                                       ( 7.0236 , 2.1944 )                        4.1425
+Contributing News/Interview Writer                 ( 6.7089 , 2.2516 )                        4.1244
+Student Advisor TRIO Upward Bound                  ( 4.0484 , 2.8697 )                        4.7933
+Childcare Entry Level Assistant Teacher            ( 4.4599 , 5.0658 )                        3.1729
+Child Development Center Assitant                  ( 4.7741 , 3.1279 )                        4.1182
+Warehouse Associate                                ( 4.1369 , 3.6447 )                        4.2004
+Preschool Teacher Assistant                        ( 7.4313 , 6.3530 )                        0.0656
+Group Leader for NYC Mission Society               ( 7.4705 , 5.4523 )                        0.8752
+Booth Cashier                                      ( 3.3804 , 2.8289 )                        5.3054
+Math Tutor                                         ( 6.3504 , 5.9528 )                        1.0877
+Infant Teacher                                     ( 4.2368 , 4.1034 )                        3.8420
+TLC Social Media & Content Intern                  ( 2.8786 , 3.4552 )                        5.3313
+Arts Criticism Intern                              ( 3.0722 , 3.6330 )                        5.0727
+Operations                                         ( 3.1720 , 5.2348 )                        4.3399
+Minecraft Instructor                               ( 5.5478 , 2.9249 )                        3.8567
+Santa Photo Helper                                 ( 3.5641 , 2.8071 )                        5.1833
+Park Ranger                                        ( 4.3449 , 7.5081 )                        3.2525
+After-School Junior Group Leader                   ( 5.9537 , 3.6886 )                        2.9918
+Camp Counselor                                     ( 4.4470 , 4.3669 )                        3.5195
+Temporary Scan Verification Associate              ( 4.8382 , 7.6246 )                        2.8503
+Direct Support Pro Intern                          ( 7.7115 , 3.9604 )                        2.3857
+Valet Parking Attendant                            ( 6.0397 , 3.0994 )                        3.4878
+Teacher's Assistant                                ( 6.7367 , 7.6321 )                        1.4565
+Kumon Instructor Assistant                         ( 4.2984 , 4.9636 )                        3.3618
+Bakery Team Member                                 ( 4.2853 , 7.0738 )                        3.1784
+House Cleaner                                      ( 3.7541 , 6.2255 )                        3.6207
+Resturant Team Member                              ( 3.4687 , 2.5666 )                        5.4177
+Seasonal Bell Ringer                               ( 5.8758 , 4.4470 )                        2.3998
+Wait Staff                                         ( 3.5290 , 2.9573 )                        5.1091
+Theo Peer                                          ( 7.6230 , 7.7693 )                        1.4685
+Party Assistant                                    ( 4.3712 , 6.7579 )                        3.0338
+Birthday Party Host                                ( 4.5350 , 3.3662 )                        4.0981
+Taco Bell Team Member                              ( 2.0064 , 6.3736 )                        5.3673
+Retail Team Member                                 ( 7.0426 , 6.0815 )                        0.4091
+Dunkin Crew Member                                 ( 6.7591 , 4.2619 )                        2.1498
+Seasonal Picker                                    ( 3.5874 , 5.1511 )                        3.9630
+Dishwasher and Cleaner                             ( 2.4721 , 6.8218 )                        4.9268
+Stocker                                            ( 7.1030 , 2.2486 )                        4.0825
+Production Worker                                  ( 4.0124 , 4.9849 )                        3.6173
+Painting Customer Service Rep                      ( 4.0797 , 4.6105 )                        3.7119
+Corps Ministry Assistant                           ( 2.1351 , 5.8484 )                        5.2597
+Y&C Resturant Crew Member                          ( 5.7808 , 2.7097 )                        3.9479
+Sewing Direct Associate                            ( 7.2090 , 7.2418 )                        0.9343
+Britesmith Brewing Dishwasher                      ( 3.2169 , 4.8391 )                        4.4132
+Doggy Day Camp Attendant                           ( 2.4332 , 6.8589 )                        4.9694
+Antler's Restaurant Dishwasher                     ( 5.2090 , 7.0538 )                        2.2848
+Donut Packer                                       ( 6.9992 , 7.5152 )                        1.2504
+Prep Cook/Dishwasher                               ( 4.2828 , 6.1907 )                        3.0935
+Kinglsey Cleaners                                  ( 4.1526 , 6.2052 )                        3.2230
+PT Office Cleaning                                 ( 6.2374 , 6.1432 )                        1.1500
+Helping Hand Weekend Cleaner                       ( 2.3056 , 4.9385 )                        5.2533
+Bayard Baker Part-Time Cashier                     ( 6.0174 , 5.2154 )                        1.7503
+Plumber's Helper                                   ( 7.2308 , 5.8206 )                        0.5214
+Taco Bell Team Member                              ( 2.9927 , 5.2142 )                        4.5187
+Dishwasher at Hillsdale House                      ( 7.9362 , 3.5265 )                        2.8516
+Luca Trattoria & Pizzeria Counter Help             ( 6.9127 , 6.9595 )                        0.7865
+McDonald's Crew Member                             ( 6.0759 , 3.1763 )                        3.4029
+Dairy Queen Crew Members                           ( 7.6499 , 4.1008 )                        2.2384
+Subway Shift Leader                                ( 2.6955 , 4.6767 )                        4.9589
+Counter Person at Katrinka's INC                   ( 7.3874 , 7.5264 )                        1.2044
+NSinc Front Desk Sports Member                     ( 2.7410 , 5.8335 )                        4.6581
+Valet Parking Attendant                            ( 5.1262 , 6.2328 )                        2.2491
+Gym Front Deskt Member Rep                         ( 3.0801 , 7.9648 )                        4.5969
+Hair Stylist                                       ( 6.3029 , 7.2976 )                        1.4483
+Elementary After School Tutor                      ( 7.7878 , 5.3637 )                        1.0441
+Infant Teacher                                     ( 2.9080 , 3.5535 )                        5.2541
+African Heritage Food Bagger                       ( 5.1448 , 3.7585 )                        3.3970
+Mathnasium Instructor                              ( 7.7791 , 2.7108 )                        3.6340
+Seasonal Picker                                    ( 6.1759 , 2.9112 )                        3.6150
+Hip Hop Assistant Teacher                          ( 6.7222 , 6.0085 )                        0.7228
+Retail Sales Associate                             ( 6.6244 , 2.6718 )                        3.7264
+Cashier/Customer Service                           ( 7.7732 , 7.9953 )                        1.7202
+Nail Technician                                    ( 5.0146 , 6.1706 )                        2.3637
+Child Care Worker                                  ( 6.2621 , 5.7518 )                        1.2492
+Crew Member at Chipotle                           ( 4.8984 , 4.3845 )                        3.1433
+Waiter at PJ Lobster House                         ( 3.3810 , 3.7614 )                        4.7431
+Kumon Teacher's Assistant                          ( 5.5112 , 3.0535 )                        3.7619
+Barista at Starbucks                               ( 2.6794 , 7.7190 )                        4.8975
+Barista and Retail Associate                       ( 5.8829 , 7.8494 )                        2.1342
+Bakery Team Member                                 ( 3.3229 , 4.8439 )                        4.3119
+Party Hostess                                      ( 6.9535 , 2.8176 )                        3.5296
+Part Time Assistant Teacher                        ( 3.0537 , 7.7148 )                        4.5387
+E-Commerce Fit Model                               ( 2.4374 , 4.4111 )                        5.2930
+School Age Child Care Assistant                    ( 7.5737 , 3.2971 )                        3.0316
+Restaurant Team Member                             ( 2.0619 , 2.9309 )                        6.3018
+Waiter at Luxury Senior Living                     ( 4.5493 , 4.6648 )                        3.2745
+Social Media Intern at curlee Girlee LLC           ( 2.3712 , 4.8598 )                        5.2116
+Busser in The Melting Pot                          ( 3.5990 , 5.9393 )                        3.7938
+Community Habilitation Specialist                  ( 2.5469 , 5.4459 )                        4.9055
+Booth Operator                                     ( 4.4708 , 3.1787 )                        4.2786
+Korean Meal Bagger                                 ( 7.6354 , 2.9432 )                        3.3890
+Waiter at Primavera Restaurant                     ( 4.1586 , 3.3469 )                        4.3803
+Summer Day Camp Group Counselor                    ( 3.2072 , 4.1555 )                        4.6960
+Restaurant Server                                  ( 7.9285 , 6.0740 )                        0.6079
+Game Room Attendant                                ( 3.7873 , 7.3609 )                        3.7336
+Learning Lab Group Leader                          ( 3.1367 , 2.6951 )                        5.5772
+Part-Time Food Handler                             ( 4.4064 , 3.3057 )                        4.2310
+Middle School Mentor                               ( 6.3250 , 4.0081 )                        2.5404
+
+Person: 8
+Job Name                                            Coordinate Points                          Units
+--------------------------------------------------------------------------------------------------------------
+Group Leader for Arts & Education                  ( 4.7732 , 2.5679 )                        3.1192
+Peer Bridger                                       ( 7.0236 , 2.1944 )                        5.3219
+Contributing News/Interview Writer                 ( 6.7089 , 2.2516 )                        5.0079
+Student Advisor TRIO Upward Bound                  ( 4.0484 , 2.8697 )                        2.3410
+Childcare Entry Level Assistant Teacher            ( 4.4599 , 5.0658 )                        2.5992
+Child Development Center Assitant                  ( 4.7741 , 3.1279 )                        2.8884
+Warehouse Associate                                ( 4.1369 , 3.6447 )                        2.1333
+Preschool Teacher Assistant                        ( 7.4313 , 6.3530 )                        5.8370
+Group Leader for NYC Mission Society               ( 7.4705 , 5.4523 )                        5.5883
+Booth Cashier                                      ( 3.3804 , 2.8289 )                        1.8327
+Math Tutor                                         ( 6.3504 , 5.9528 )                        4.6857
+Infant Teacher                                     ( 4.2368 , 4.1034 )                        2.1861
+TLC Social Media & Content Intern                  ( 2.8786 , 3.4552 )                        1.0433
+Arts Criticism Intern                              ( 3.0722 , 3.6330 )                        1.1191
+Operations                                         ( 3.1720 , 5.2348 )                        1.6023
+Minecraft Instructor                               ( 5.5478 , 2.9249 )                        3.6861
+Santa Photo Helper                                 ( 3.5641 , 2.8071 )                        1.9841
+Park Ranger                                        ( 4.3449 , 7.5081 )                        4.1165
+After-School Junior Group Leader                   ( 5.9537 , 3.6886 )                        3.9236
+Camp Counselor                                     ( 4.4470 , 4.3669 )                        2.4122
+Temporary Scan Verification Associate              ( 4.8382 , 7.6246 )                        4.5013
+Direct Support Pro Intern                          ( 7.7115 , 3.9604 )                        5.6623
+Valet Parking Attendant                            ( 6.0397 , 3.0994 )                        4.1102
+Teacher's Assistant                                ( 6.7367 , 7.6321 )                        5.8739
+Kumon Instructor Assistant                         ( 4.2984 , 4.9636 )                        2.4113
+Bakery Team Member                                 ( 4.2853 , 7.0738 )                        3.7275
+House Cleaner                                      ( 3.7541 , 6.2255 )                        2.7314
+Resturant Team Member                              ( 3.4687 , 2.5666 )                        2.0813
+Seasonal Bell Ringer                               ( 5.8758 , 4.4470 )                        3.8416
+Wait Staff                                         ( 3.5290 , 2.9573 )                        1.8625
+Theo Peer                                          ( 7.6230 , 7.7693 )                        6.6773
+Party Assistant                                    ( 4.3712 , 6.7579 )                        3.5357
+Birthday Party Host                                ( 4.5350 , 3.3662 )                        2.5876
+Taco Bell Team Member                              ( 2.0064 , 6.3736 )                        2.2838
+Retail Team Member                                 ( 7.0426 , 6.0815 )                        5.3744
+Dunkin Crew Member                                 ( 6.7591 , 4.2619 )                        4.7115
+Seasonal Picker                                    ( 3.5874 , 5.1511 )                        1.8673
+Dishwasher and Cleaner                             ( 2.4721 , 6.8218 )                        2.7639
+Stocker                                            ( 7.1030 , 2.2486 )                        5.3775
+Production Worker                                  ( 4.0124 , 4.9849 )                        2.1560
+Painting Customer Service Rep                      ( 4.0797 , 4.6105 )                        2.0946
+Corps Ministry Assistant                           ( 2.1351 , 5.8484 )                        1.7602
+Y&C Resturant Crew Member                          ( 5.7808 , 2.7097 )                        3.9773
+Sewing Direct Associate                            ( 7.2090 , 7.2418 )                        6.0448
+Britesmith Brewing Dishwasher                      ( 3.2169 , 4.8391 )                        1.3859
+Doggy Day Camp Attendant                           ( 2.4332 , 6.8589 )                        2.7950
+Antler's Restaurant Dishwasher                     ( 5.2090 , 7.0538 )                        4.3310
+Donut Packer                                       ( 6.9992 , 7.5152 )                        6.0181
+Prep Cook/Dishwasher                               ( 4.2828 , 6.1907 )                        3.0650
+Kinglsey Cleaners                                  ( 4.1526 , 6.2052 )                        2.9818
+PT Office Cleaning                                 ( 6.2374 , 6.1432 )                        4.6630
+Helping Hand Weekend Cleaner                       ( 2.3056 , 4.9385 )                        0.8857
+Bayard Baker Part-Time Cashier                     ( 6.0174 , 5.2154 )                        4.1232
+Plumber's Helper                                   ( 7.2308 , 5.8206 )                        5.4615
+Taco Bell Team Member                              ( 2.9927 , 5.2142 )                        1.4665
+Dishwasher at Hillsdale House                      ( 7.9362 , 3.5265 )                        5.9124
+Luca Trattoria & Pizzeria Counter Help             ( 6.9127 , 6.9595 )                        5.6454
+McDonald's Crew Member                             ( 6.0759 , 3.1763 )                        4.1277
+Dairy Queen Crew Members                           ( 7.6499 , 4.1008 )                        5.5992
+Subway Shift Leader                                ( 2.6955 , 4.6767 )                        0.8716
+Counter Person at Katrinka's INC                   ( 7.3874 , 7.5264 )                        6.3472
+NSinc Front Desk Sports Member                     ( 2.7410 , 5.8335 )                        1.8749
+Valet Parking Attendant                            ( 5.1262 , 6.2328 )                        3.7482
+Gym Front Deskt Member Rep                         ( 3.0801 , 7.9648 )                        4.0090
+Hair Stylist                                       ( 6.3029 , 7.2976 )                        5.3262
+Elementary After School Tutor                      ( 7.7878 , 5.3637 )                        5.8767
+Infant Teacher                                     ( 2.9080 , 3.5535 )                        1.0114
+African Heritage Food Bagger                       ( 5.1448 , 3.7585 )                        3.1118
+Mathnasium Instructor                              ( 7.7791 , 2.7108 )                        5.8921
+Seasonal Picker                                    ( 6.1759 , 2.9112 )                        4.2904
+Hip Hop Assistant Teacher                          ( 6.7222 , 6.0085 )                        5.0500
+Retail Sales Associate                             ( 6.6244 , 2.6718 )                        4.7886
+Cashier/Customer Service                           ( 7.7732 , 7.9953 )                        6.9279
+Nail Technician                                    ( 5.0146 , 6.1706 )                        3.6211
+Child Care Worker                                  ( 6.2621 , 5.7518 )                        4.5273
+Crew Member at Chipotle                           ( 4.8984 , 4.3845 )                        2.8628
+Waiter at PJ Lobster House                         ( 3.3810 , 3.7614 )                        1.3704
+Kumon Teacher's Assistant                          ( 5.5112 , 3.0535 )                        3.6124
+Barista at Starbucks                               ( 2.6794 , 7.7190 )                        3.6828
+Barista and Retail Associate                       ( 5.8829 , 7.8494 )                        5.3681
+Bakery Team Member                                 ( 3.3229 , 4.8439 )                        1.4787
+Party Hostess                                      ( 6.9535 , 2.8176 )                        5.0652
+Part Time Assistant Teacher                        ( 3.0537 , 7.7148 )                        3.7608
+E-Commerce Fit Model                               ( 2.4374 , 4.4111 )                        0.5025
+School Age Child Care Assistant                    ( 7.5737 , 3.2971 )                        5.5796
+Restaurant Team Member                             ( 2.0619 , 2.9309 )                        1.1594
+Waiter at Luxury Senior Living                     ( 4.5493 , 4.6648 )                        2.5638
+Social Media Intern at curlee Girlee LLC           ( 2.3712 , 4.8598 )                        0.8336
+Busser in The Melting Pot                          ( 3.5990 , 5.9393 )                        2.4117
+Community Habilitation Specialist                  ( 2.5469 , 5.4459 )                        1.4436
+Booth Operator                                     ( 4.4708 , 3.1787 )                        2.5860
+Korean Meal Bagger                                 ( 7.6354 , 2.9432 )                        5.7012
+Waiter at Primavera Restaurant                     ( 4.1586 , 3.3469 )                        2.2351
+Summer Day Camp Group Counselor                    ( 3.2072 , 4.1555 )                        1.1583
+Restaurant Server                                  ( 7.9285 , 6.0740 )                        6.2035
+Game Room Attendant                                ( 3.7873 , 7.3609 )                        3.7031
+Learning Lab Group Leader                          ( 3.1367 , 2.6951 )                        1.7680
+Part-Time Food Handler                             ( 4.4064 , 3.3057 )                        2.4829
+Middle School Mentor                               ( 6.3250 , 4.0081 )                        4.2750
+
+Person: 9
+Job Name                                            Coordinate Points                          Units
+--------------------------------------------------------------------------------------------------------------
+Group Leader for Arts & Education                  ( 4.7732 , 2.5679 )                        2.6178
+Peer Bridger                                       ( 7.0236 , 2.1944 )                        3.0546
+Contributing News/Interview Writer                 ( 6.7089 , 2.2516 )                        2.8863
+Student Advisor TRIO Upward Bound                  ( 4.0484 , 2.8697 )                        2.7331
+Childcare Entry Level Assistant Teacher            ( 4.4599 , 5.0658 )                        1.3226
+Child Development Center Assitant                  ( 4.7741 , 3.1279 )                        2.1114
+Warehouse Associate                                ( 4.1369 , 3.6447 )                        2.1199
+Preschool Teacher Assistant                        ( 7.4313 , 6.3530 )                        2.1448
+Group Leader for NYC Mission Society               ( 7.4705 , 5.4523 )                        1.7541
+Booth Cashier                                      ( 3.3804 , 2.8289 )                        3.2255
+Math Tutor                                         ( 6.3504 , 5.9528 )                        1.1239
+Infant Teacher                                     ( 4.2368 , 4.1034 )                        1.7768
+TLC Social Media & Content Intern                  ( 2.8786 , 3.4552 )                        3.2797
+Arts Criticism Intern                              ( 3.0722 , 3.6330 )                        3.0262
+Operations                                         ( 3.1720 , 5.2348 )                        2.6199
+Minecraft Instructor                               ( 5.5478 , 2.9249 )                        2.0725
+Santa Photo Helper                                 ( 3.5641 , 2.8071 )                        3.1065
+Park Ranger                                        ( 4.3449 , 7.5081 )                        2.9032
+After-School Junior Group Leader                   ( 5.9537 , 3.6886 )                        1.3074
+Camp Counselor                                     ( 4.4470 , 4.3669 )                        1.4690
+Temporary Scan Verification Associate              ( 4.8382 , 7.6246 )                        2.8032
+Direct Support Pro Intern                          ( 7.7115 , 3.9604 )                        2.1862
+Valet Parking Attendant                            ( 6.0397 , 3.0994 )                        1.9028
+Teacher's Assistant                                ( 6.7367 , 7.6321 )                        2.8153
+Kumon Instructor Assistant                         ( 4.2984 , 4.9636 )                        1.4817
+Bakery Team Member                                 ( 4.2853 , 7.0738 )                        2.5690
+House Cleaner                                      ( 3.7541 , 6.2255 )                        2.3759
+Resturant Team Member                              ( 3.4687 , 2.5666 )                        3.3448
+Seasonal Bell Ringer                               ( 5.8758 , 4.4470 )                        0.5458
+Wait Staff                                         ( 3.5290 , 2.9573 )                        3.0292
+Theo Peer                                          ( 7.6230 , 7.7693 )                        3.3396
+Party Assistant                                    ( 4.3712 , 6.7579 )                        2.2650
+Birthday Party Host                                ( 4.5350 , 3.3662 )                        2.0416
+Taco Bell Team Member                              ( 2.0064 , 6.3736 )                        4.0211
+Retail Team Member                                 ( 7.0426 , 6.0815 )                        1.6728
+Dunkin Crew Member                                 ( 6.7591 , 4.2619 )                        1.2169
+Seasonal Picker                                    ( 3.5874 , 5.1511 )                        2.1988
+Dishwasher and Cleaner                             ( 2.4721 , 6.8218 )                        3.7839
+Stocker                                            ( 7.1030 , 2.2486 )                        3.0390
+Production Worker                                  ( 4.0124 , 4.9849 )                        1.7676
+Painting Customer Service Rep                      ( 4.0797 , 4.6105 )                        1.7408
+Corps Ministry Assistant                           ( 2.1351 , 5.8484 )                        3.7458
+Y&C Resturant Crew Member                          ( 5.7808 , 2.7097 )                        2.2747
+Sewing Direct Associate                            ( 7.2090 , 7.2418 )                        2.6717
+Britesmith Brewing Dishwasher                      ( 3.2169 , 4.8391 )                        2.5672
+Doggy Day Camp Attendant                           ( 2.4332 , 6.8589 )                        3.8360
+Antler's Restaurant Dishwasher                     ( 5.2090 , 7.0538 )                        2.1467
+Donut Packer                                       ( 6.9992 , 7.5152 )                        2.8092
+Prep Cook/Dishwasher                               ( 4.2828 , 6.1907 )                        1.9227
+Kinglsey Cleaners                                  ( 4.1526 , 6.2052 )                        2.0344
+PT Office Cleaning                                 ( 6.2374 , 6.1432 )                        1.2459
+Helping Hand Weekend Cleaner                       ( 2.3056 , 4.9385 )                        3.4746
+Bayard Baker Part-Time Cashier                     ( 6.0174 , 5.2154 )                        0.3313
+Plumber's Helper                                   ( 7.2308 , 5.8206 )                        1.6746
+Taco Bell Team Member                              ( 2.9927 , 5.2142 )                        2.7967
+Dishwasher at Hillsdale House                      ( 7.9362 , 3.5265 )                        2.6028
+Luca Trattoria & Pizzeria Counter Help             ( 6.9127 , 6.9595 )                        2.2769
+McDonald's Crew Member                             ( 6.0759 , 3.1763 )                        1.8321
+Dairy Queen Crew Members                           ( 7.6499 , 4.1008 )                        2.0682
+Subway Shift Leader                                ( 2.6955 , 4.6767 )                        3.0997
+Counter Person at Katrinka's INC                   ( 7.3874 , 7.5264 )                        3.0077
+NSinc Front Desk Sports Member                     ( 2.7410 , 5.8335 )                        3.1553
+Valet Parking Attendant                            ( 5.1262 , 6.2328 )                        1.4093
+Gym Front Deskt Member Rep                         ( 3.0801 , 7.9648 )                        4.0215
+Hair Stylist                                       ( 6.3029 , 7.2976 )                        2.3716
+Elementary After School Tutor                      ( 7.7878 , 5.3637 )                        2.0433
+Infant Teacher                                     ( 2.9080 , 3.5535 )                        3.2086
+African Heritage Food Bagger                       ( 5.1448 , 3.7585 )                        1.3807
+Mathnasium Instructor                              ( 7.7791 , 2.7108 )                        3.0275
+Seasonal Picker                                    ( 6.1759 , 2.9112 )                        2.1107
+Hip Hop Assistant Teacher                          ( 6.7222 , 6.0085 )                        1.3917
+Retail Sales Associate                             ( 6.6244 , 2.6718 )                        2.4619
+Cashier/Customer Service                           ( 7.7732 , 7.9953 )                        3.6109
+Nail Technician                                    ( 5.0146 , 6.1706 )                        1.4117
+Child Care Worker                                  ( 6.2621 , 5.7518 )                        0.9064
+Crew Member at Chipotle                           ( 4.8984 , 4.3845 )                        1.0663
+Waiter at PJ Lobster House                         ( 3.3810 , 3.7614 )                        2.6927
+Kumon Teacher's Assistant                          ( 5.5112 , 3.0535 )                        1.9495
+Barista at Starbucks                               ( 2.6794 , 7.7190 )                        4.1342
+Barista and Retail Associate                       ( 5.8829 , 7.8494 )                        2.8669
+Bakery Team Member                                 ( 3.3229 , 4.8439 )                        2.4610
+Party Hostess                                      ( 6.9535 , 2.8176 )                        2.4642
+Part Time Assistant Teacher                        ( 3.0537 , 7.7148 )                        3.8584
+E-Commerce Fit Model                               ( 2.4374 , 4.4111 )                        3.3913
+School Age Child Care Assistant                    ( 7.5737 , 3.2971 )                        2.4626
+Restaurant Team Member                             ( 2.0619 , 2.9309 )                        4.2474
+Waiter at Luxury Senior Living                     ( 4.5493 , 4.6648 )                        1.2714
+Social Media Intern at curlee Girlee LLC           ( 2.3712 , 4.8598 )                        3.4110
+Busser in The Melting Pot                          ( 3.5990 , 5.9393 )                        2.3808
+Community Habilitation Specialist                  ( 2.5469 , 5.4459 )                        3.2659
+Booth Operator                                     ( 4.4708 , 3.1787 )                        2.2303
+Korean Meal Bagger                                 ( 7.6354 , 2.9432 )                        2.7584
+Waiter at Primavera Restaurant                     ( 4.1586 , 3.3469 )                        2.3043
+Summer Day Camp Group Counselor                    ( 3.2072 , 4.1555 )                        2.7030
+Restaurant Server                                  ( 7.9285 , 6.0740 )                        2.4091
+Game Room Attendant                                ( 3.7873 , 7.3609 )                        3.1014
+Learning Lab Group Leader                          ( 3.1367 , 2.6951 )                        3.4968
+Part-Time Food Handler                             ( 4.4064 , 3.3057 )                        2.1689
+Middle School Mentor                               ( 6.3250 , 4.0081 )                        1.1181
+

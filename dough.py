@@ -11,9 +11,9 @@ def difficulty(actual, expected):
     else:
         return abs(x) * -1
 
-def time(workinghours, selfcare = 1, sleep = 8, commutehr = 2):
+def time(workinghours, commutehr, selfcare = 1, sleep = 8):
     #selfcare is inputted by person
-    x = 24 - selfcare - sleep - workinghours - commutehr
+    x = 24 - selfcare - sleep - workinghours - 2*commutehr
     if x < 0:
         x = 0
     return x
@@ -40,7 +40,7 @@ def jobvaluesss(cheese, expected):
     newcheese = []
     newcheese.append(percentdifference(cheese[0], expected[0]))
     newcheese.append(hollandcode(cheese[1], expected[1]))
-    newcheese.append(percentdifference(time(cheese[2]), expected[2])) #need to add commute time
+    newcheese.append(percentdifference(time(cheese[2], cheese[6]), expected[2])) #need to add commute time
     newcheese.append(difficulty(cheese[3], expected[3]))
     newcheese.append(difficulty(cheese[4], expected[4]))
     newcheese.append(int(cheese[5] == expected[5]))

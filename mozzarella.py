@@ -16,7 +16,7 @@ def AHP():
                 chart[i][z] = 1
             if chart[i][z] != 0:
                 continue
-            x = random.randint(1, 9)
+            x = random.choice([1/i for i in range(1, 10)]+[i for i in range(1, 10)])
             chart[i][z] = x
             chart[z][i] = 1/x
     temp = chart
@@ -64,5 +64,7 @@ def AHP():
     #print (CCorrect)
     return weights 
 
-print(AHP())
+if __name__ == "__main__":
+    for _ in range(10):
+        print(AHP())
 

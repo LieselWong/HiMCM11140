@@ -21,24 +21,25 @@ with open("rollingpin.csv") as csvfile, open("results.txt") as distances:
             distances.readline()
         applicantvalues, weights = person
         jobScores = []
-        for job in jobs:
+        for i, job in enumerate(jobs):
             commute = float(distances.readline().split()[-1])/3
             jobvalues = dough.jobvaluesss(job[1:]+[commute], applicantvalues)
             score = dough.satisfaction(weights, jobvalues)
             jobScores.append((score, job+[commute]))
-            if job[0] in jobScoresAll:
-                jobScoresAll[job[0]].append(score)
+            jobName = job[0] + " " + str(i)
+            if jobName in jobScoresAll:
+                jobScoresAll[jobName].append(score)
             else:
-                jobScoresAll[job[0]] = [score]
+                jobScoresAll[jobName] = [score]
         jobScores.sort(key = lambda x: x[0])
-        print("Top five jobs for this random person:")
+        print("Top ten jobs for this random person:")
         print(person)
         with open("redpepper.csv", "w") as out:
             writer = csv.writer(out)
             writer.writerow([""] + people)
             for job in jobScoresAll:
                 writer.writerow([job] + jobScoresAll[job])
-        for job in jobScores[::-1][:5]:
+        for job in jobScores[::-1][:10]:
             print(job)
         print("\n")
         

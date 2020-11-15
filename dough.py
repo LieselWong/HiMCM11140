@@ -22,17 +22,6 @@ def hollandcode(jobtraits, applicanttraits):
             matches += 1
     return matches/jobtraits.count(True) - 1
     
-#jobtraits = [False, True, True, False, False, False]
-#applicanttraits = [True, True, True, False, False, False]
-
-#print(hollandcode(jobtraits, applicanttraits))
-#weights = [1, 1, 1, 1, 1]
-'''jobvalues = [percentdifference(5000, 6000), difficulty(3, 5),
-             percentdifference(time(), 5),
-             hollandcode(jobtraits, applicanttraits)]'''
-
-'''random.randint(6, 28) random.randint(0, 12)random.randint(1, 5)'''
-
 def jobvaluesss(cheese, expected):
     newcheese = []
     newcheese.append(percentdifference(cheese[0], expected[0]))
@@ -45,9 +34,7 @@ def jobvaluesss(cheese, expected):
     
 def satisfaction(weights, jobvalues):
     isfaction = 0
-    for i in range (1, len(weights)):
+    for i in range(len(weights)):
         isfaction += weights[i] * jobvalues[i]
     return isfaction
 
-'''jobvaluesss(jobs)
-print(Satisfaction(weights, jobs))'''

@@ -40,6 +40,6 @@ with open("rollingpin.csv") as csvfile, open("results.txt") as distances:
             for job in jobScoresAll:
                 writer.writerow([job] + jobScoresAll[job])
         for job in jobScores[::-1][:10]:
-            print(job)
+            print(f"{job[0]:.3f}, "+job[1][0])
         print("\n")
         

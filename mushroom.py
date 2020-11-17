@@ -2,7 +2,6 @@ import csv
 import dough
 import flour
 from ast import literal_eval as makeTuple
-#import numpy as np
 
 with open("redpepper.csv") as file:
     reader = csv.reader(file)
@@ -15,9 +14,4 @@ with open("redpepper.csv") as file:
         print("Top 10 Jobs:")
         flour.printTopN(10, newScores[0])
         print()
-
-    #for row in reader:
-        #greenpepper = [float(n) for n in row[1:]]
-        #print(row[0] + "\nMean Score: " + str(np.mean(greenpepper)) + "\nStdev: " + str(np.std(greenpepper)) + "\n")
-
 

@@ -11,7 +11,7 @@ def randPerson():
     difficulty = random.randint(1, 5)
     physicality = random.randint(0, 100)
     subject = random.choice(subjects)
-    weights = mozzarella.AHP() #TODO: check this
+    weights = mozzarella.AHP()
     return [wage, codes, hours, difficulty, physicality, subject], weights
 
 def randPeople(n):

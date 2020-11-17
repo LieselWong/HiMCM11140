@@ -72,8 +72,8 @@ def jobvalues(jobtraits, expected):
     return vals
     
 def satisfaction(weights, jobvalues):
-    isfaction = 0
+    s = 0
     for i in range(len(weights)):
-        isfaction += weights[i] * jobvalues[i]
-    return isfaction
+        s += weights[i] * jobvalues[i]
+    return s
 

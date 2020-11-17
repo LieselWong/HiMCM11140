@@ -69,7 +69,7 @@ def jobvalues(jobtraits, expected):
     vals.append(absvaldiff(jobtraits[3], expected[3]))
     vals.append(absvaldiff(jobtraits[4], expected[4]))
     vals.append(int(jobtraits[5] == expected[5])-1)
-    return newcheese
+    return vals
     
 def satisfaction(weights, jobvalues):
     isfaction = 0
